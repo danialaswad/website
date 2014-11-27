@@ -69,40 +69,55 @@
 				</ul>
 			</div>
 			<div id="lbox2">
-				<h2>Posuere augue amet</h2>
+				<h2></h2>
 				<ul class="style2">
-					<li><a href="#">Semper mod quis eget mi dolore</a></li>
-					<li><a href="#">Quam turpis feugiat sit dolor</a></li>
-					<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
-					<li><a href="#">Consequat etiam lorem phasellus</a></li>
-					<li><a href="#">Amet ornare in hendrerit in lectus</a></li>
+				
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>
 <div id="wrapper2">
-	<div id="newsletter" class="container">
-		<div class="title">
+	<div id="links">
+		<div id="link-box">
 			<h2>Liens Externes</h2>
 				<ul class="style2">
-					<li>IUT Nice Côte d’azur<br/>
-				D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
-				650, Route des Colles, 06560 Valbonne<br/>
-				Adresse &eacute;lectronique : rt@iutsoph.unice.fr<br/>
-				Adresse web : <a href="http://rt.unice.fr/" target="_blank">http://rt.unice.fr/</a></li>
-					<li>Universiti Kuala Lumpur Malaysia France Institut<br/>
-				Section 14, Jalan Teras Jernang<br/>
-				43650 Bandar Baru Bangi, Selangor<br/>
-				Adresse web : <a href="http://www.unikl.edu.my/web/unikl-mfi/home" target="_blank">http://www.unikl.edu.my/web/unikl-mfi/home</a></li>
-					<li>Campus France<br>
-			Patent House, 144-02, 2nd Floor, Jalan Bukit Bintang<br>
-			Kuala Lumpur, 55100, Malaysia<br>
-			Telephone: +60 (0) 3- 2142 7475<br>
-			Fax: +60 (0) 3- 2142 7476<br>
-			Adresse web : <a href ="http://www.malaisie.campusfrance.org/en/" target="_blank">http://www.malaisie.campusfrance.org/en/</a></li>
+					<li><strong>IUT Nice Côte d’azur</strong><br/>
+						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
+						650, Route des Colles, 06560 Valbonne<br/>
+						Adresse &eacute;lectronique : rt@iutsoph.unice.fr<br/>
+						Adresse web : <a href="http://rt.unice.fr/" target="_blank">http://rt.unice.fr/</a></li>
+					<li><strong>Universiti Kuala Lumpur Malaysia France Institut</strong><br/>
+						Section 14, Jalan Teras Jernang<br/>
+						43650 Bandar Baru Bangi, Selangor<br/>
+						Adresse web : <a href="http://www.unikl.edu.my/web/unikl-mfi/home" target="_blank">http://www.unikl.edu.my/web/unikl-mfi/home</a></li>
+					<li><strong>Campus France</strong><br>
+						Patent House, 144-02, 2nd Floor, Jalan Bukit Bintang<br>
+						Kuala Lumpur, 55100, Malaysia<br>
+						Telephone: +60 (0) 3- 2142 7475<br>
+						Fax: +60 (0) 3- 2142 7476<br>
+						Adresse web : <a href ="http://www.malaisie.campusfrance.org/en/" target="_blank">http://www.malaisie.campusfrance.org/en/</a></li>
+				</ul>
+		</div>
+	</div>
+	<div id="contact">
+		<h2>Contacts</h2>
+		<ul class="style2">
+					<li><strong>Cecile CHAGNON</strong><br>
+						Responsables Relations Internationales:
+			D&eacute;partement RT-IUT de Nice C&ocirc;te d'Azur<br>
+			cecile.CHAGNON@unice.fr<br/>
+			D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications <br>
+			Quartier les Templiers - 650 route des Colles - 06560 VALBONNE.</li>
+					<li><strong>Abdul Aziz BIN ASMUNI</strong><br>
+						Chef de RTM PF10<br>
+						aziz@iutsoph.unice.fr<br></li>
 					
 				</ul>
+	</div>
+	<br>
+	<div id="newsletter" class="container">
+		<div class="title">
 			<h2>Newsletter Signup</h2>
 			<span class="byline"></span> </div>
 		<div class="content">
