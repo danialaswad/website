@@ -36,10 +36,14 @@
 	<div id="wrapper-blog" class="container">
 		<div id="post">
 			<h1>ALBUM</h1><br>
+			<div class="post"> <span class="date">Novembre 22, 2014</span> <img src="images/decouvert.jpg" class="image image-full" />
+				<h2><strong>Activit&eacute; de d&eacute;couverte de l'environnement</strong></h2>
+				<p></p>
+
+			</div>
 			<div class="post"> <span class="date">Juin 20, 2014</span> <img src="images/carras.jpg" class="image image-full" />
 				<h2><strong>Pique-nique à carras</strong></h2>
 				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.</p>
-
 			</div>
 			<div class="post"> <span class="date">Novembre 16, 2013</span> <img src="images/sortiecheval.jpg" class="image image-full" />
 				<h2><strong>Sortie cheval</strong></h2>
@@ -104,11 +108,11 @@
 		<h2>Contacts</h2>
 		<ul class="style2">
 					<li><strong>Cecile CHAGNON</strong><br>
-						Responsables Relations Internationales:
+						Responsables Relations Internationales:<br>
 			D&eacute;partement RT-IUT de Nice C&ocirc;te d'Azur<br>
 			cecile.CHAGNON@unice.fr<br/>
 			D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications <br>
-			Quartier les Templiers - 650 route des Colles - 06560 VALBONNE.</li>
+			Quartier les Templiers - 650 route des Colles - 06560 Valbonne.</li>
 					<li><strong>Abdul Aziz BIN ASMUNI</strong><br>
 						Chef de RTM PF10<br>
 						aziz@iutsoph.unice.fr<br></li>
