@@ -25,7 +25,7 @@
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Bienvenue sur le site du R&amp;T:Malaisie</h2>
+			<h2>Bienvenue sur le site du R&amp;T Malaisie</h2>
 			<span class="byline"></span> </div>
 		<div class="content">
 			<p></p>
