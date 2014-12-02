@@ -266,12 +266,6 @@
 		border-color:  rgba(0,0,0,.1);
 		padding: 0.80em 0;
 	}
-	
-	ul.style2 li:first-child
-	{
-		border-top: none;
-		padding-top: 0;
-	}
 
 /*********************************************************************************/
 /* Social Icon Styles                                                            */
@@ -386,9 +380,10 @@
 	#header-wrapper
 	{
 		overflow: hidden;
+		height:300px;
 		padding: 10px 0px;
 		background: #8DCB89 url(images/batik1.jpg) no-repeat center;
-		background-size: 100% 110%
+		background-size: 110% 110%
 
 	}
 
@@ -423,7 +418,7 @@
 
 	#logo
 	{
-		padding: 5em 0em;
+		padding: 2em 0em;
 		text-align: center;
 	}
 	
@@ -521,6 +516,7 @@
 
 	#wrapper2
 	{
+		width:100%;
 		background: #EDEDED;
 	}
 
@@ -632,7 +628,7 @@
 /*********************************************************************************/
 	#links
 	{
-		margin-left: 80px;
+		margin-left: 10px;
 		margin-top: 10px;
 		float: left;
 		width: 300px;
@@ -646,7 +642,7 @@
 
 	#contact
 	{
-		margin-right: 80px;
+		margin-rigth: 10px;
 		margin-top: 10px;
 		float: right;
 		width: 300px;
@@ -777,6 +773,9 @@
 	{
 		color:#6699FF;
 	}
+	.post p a {
+		color: #6699FF;
+	}
 	
 	.post .date
 	{
@@ -790,7 +789,7 @@
 	#list
 	{
 		float: right;
-		width: 300px;
+		width: 275px;
 	}
 	
 	#lbox1
@@ -812,13 +811,17 @@
 	}
 	
 /*********************************************************************************/
-/* theFixed                                                                   */
+/* theFixed                                                                      */
 /*********************************************************************************/
 
+	#theFixed
+	{
+		margin-right:50px;
+		margin-left: 110px
+	}
 	#theFixed ul
 	{
-		text-align:left;
-		margin-right:50px;
+		text-align:right;
 	}
 	
 	#theFixed ul a
@@ -826,7 +829,5 @@
 		text-decoration: none;
 		color: #000;
 	}
-	
 
-	
-	
+

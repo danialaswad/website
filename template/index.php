@@ -16,7 +16,16 @@
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="menu">
-			<ul><?php  include ('menu.php'); ?></ul>
+			<ul>
+				<li class='current_page_item'><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
+				<li><a href='#' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='#' accesskey='4' title=''>CAMPUS FRANCE</a></li>
+				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
+				<li><a href='#' accesskey='7' title=''>GEII ET R&amp;T</a></li>
+				<li><a href='#' accesskey='8' title=''>ALBUM</a></li>
+				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
+			</ul>
 		</div>
 		<div id="logo">
 			<h1><a href="#">R&T Malaisie</a></h1>
@@ -92,25 +101,27 @@
 				<h2><strong><a href="#">VIE ÉTUDIANT</a></strong></h2>
 				<p></p>
 			</div>
-			<div class="post no-border"> <span class="date"></span> 
+			<div class="post"> <span class="date"></span> 
 				<h2><strong><a href="#">R&amp;T GEII</a></strong></h2>
+				<p></p>
+			</div>
+			<div class="post no-border"> <span class="date"></span> 
+				<h2><strong><a href="#">ALBUM</a></strong></h2>
 				<p></p>
 			</div>
 		</div>
 		<div id="list">
+			
+			<div id="theFixed">
+				<ul class="style2">
+					<?php  include ('menu.php'); ?>
+				</ul>
+			</div>
 			<div id="lbox1">
 				<ul class="style1">
 					
 				</ul>
 
-			</div>
-			<div id="lbox2">
-				<h2></h2>
-				<div id="theFixed" style="position:fixed;top:1100px; right:50px;">
-					<ul class="style2">
-						<?php  include ('menu.php'); ?>
-					</ul>
-				</div>
 			</div>
 			<div id="lbox2">
 				<h2></h2>
@@ -129,13 +140,20 @@
 </div>
 
 <script>
-	$(window).scroll(function(){
-		$("#theFixed").css("top", Math.max(0, 1100 - $(this).scrollTop()));
+jQuery(document).ready(function(){
+    window.onscroll = function() {
+        if (window.pageYOffset >= 1000 && window.pageYOffset <= 1880){
+            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'130px'});
+        }
+        else {
+            jQuery('#theFixed').css({position: ''});
+        }
+    }
 });
+
 </script>
 <div id="wrapper2">
 	<div id="links">
-		<div id="link-box">
 			<h2>Liens Externes</h2>
 				<ul class="style2">
 					<li><strong>IUT Nice Côte d’azur</strong><br/>
@@ -154,7 +172,6 @@
 						Fax: +60 (0) 3- 2142 7476<br>
 						Adresse web : <a href ="http://www.malaisie.campusfrance.org/en/" target="_blank">http://www.malaisie.campusfrance.org/en/</a></li>
 				</ul>
-		</div>
 	</div>
 	<div id="contact">
 		<h2>Contacts</h2>
