@@ -6,7 +6,7 @@
 <title>R&amp;TM</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
 <link href="style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
@@ -74,43 +74,36 @@
 <div id="wrapper3">
 	<div id="wrapper-blog" class="container">
 		<div id="post">
-			<h1></h1><br>
-			<div class="post"> <span class="date"></span> 
-				<h2><strong><a href="#">FORMATION</a></strong></h2>
-				<p></p>
+			<h1>ALBUM</h1><br>
+			<div class="post"> <span class="date">Novembre 22, 2014</span> <img src="images/decouvert.jpg" class="image image-full" />
+				<h2><strong>Activit&eacute; de d&eacute;couverte de l'environnement</strong></h2>
+				<p>Une sortie organisée par les enseignant de l'iut R&T et GEII pour les étudiants de PF11 à Cannes</p>
 
 			</div>
-			<div class="post"> <span class="date"></span>
-				<h2><strong><a href="#">PARCOURS</a></strong></h2>
-				<p></p>
+			<div class="post"> <span class="date">Juin 20, 2014</span> <img src="images/carras.jpg" class="image image-full" />
+				<h2><strong>Pique-nique à carras</strong></h2>
+				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.</p>
 			</div>
-			<div class="post"> <span class="date"></span> 
-				<h2><strong><a href="#">CAMPUS FRANCE</a></strong></h2>
-				<p></p>
+			<div class="post"> <span class="date">Novembre 16, 2013</span> <img src="images/sortiecheval.jpg" class="image image-full" />
+				<h2><strong>Sortie cheval</strong></h2>
+				<p>Le 16 novembre 2013, nous sommes all&eacute;s &agrave; Sainte Agn&egrave;s pr&egrave;s de Menton pour faire du cheval.</p>
 			</div>
-			<div class="post"> <span class="date"></span> 
-				<h2><strong><a href="#">VIE ÉTUDIANT</a></strong></h2>
-				<p></p>
-			</div>
-			<div class="post no-border"> <span class="date"></span> 
-				<h2><strong><a href="#">R&amp;T GEII</a></strong></h2>
-				<p></p>
+			<div class="post no-border"> <span class="date">Juin 17, 2013</span> <img src="images/marineland.png" alt="" class="image image-full" />
+				<h2><strong>Sortie &agrave; Marineland</strong></h2>
+				<p>Le 17 juin 2013, nous avons fait une excursion avec les autres &eacute;tudiants malaisiens de l'IUT GEII &agrave; Marineland.</p>
 			</div>
 		</div>
 		<div id="list">
 			<div id="lbox1">
 				<ul class="style1">
-					
+				<?php  include ('menu.php'); ?>	
 				</ul>
-
 			</div>
 			<div id="lbox2">
 				<h2></h2>
-				<div id="theFixed" style="position:fixed;top:1100px; right:50px;">
-					<ul class="style2">
-						<?php  include ('menu.php'); ?>
-					</ul>
-				</div>
+				<ul class="style2">
+					
+				</ul>
 			</div>
 			<div id="lbox2">
 				<h2></h2>
@@ -127,12 +120,6 @@
 		</div>
 	</div>
 </div>
-
-<script>
-	$(window).scroll(function(){
-		$("#theFixed").css("top", Math.max(0, 1100 - $(this).scrollTop()));
-});
-</script>
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
@@ -172,12 +159,29 @@
 				</ul>
 	</div>
 	<br>
-	
 	<div id="newsletter" class="container">
 		<div class="title">
-			<h2></h2>
+			<h2>Newsletter Signup</h2>
 			<span class="byline"></span> </div>
 		<div class="content">
+			<form method="post" action="#">
+				<div class="row half">
+					<div class="6u">
+						<input type="text" class="text" name="name" placeholder="Name" />
+					</div>
+					<div class="6u">
+						<input type="text" class="text" name="email" placeholder="Email" />
+					</div>
+				</div>
+				<div class="row half">
+					<div class="12u">
+						<textarea name="message" placeholder="Message"></textarea>
+					</div>
+				</div>
+				<div class="row">
+					<div class="12u"> <a href="#" class="button submit">Send Message</a> </div>
+				</div>
+			</form>
 		</div>
 	</div>
 </div>
