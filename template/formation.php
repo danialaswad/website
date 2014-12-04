@@ -7,6 +7,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
 <link href="style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
@@ -19,7 +20,7 @@
 			<ul>
 				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
 				<li class='current_page_item'><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li><a href='#' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='#' accesskey='4' title=''>CAMPUS FRANCE</a></li>
 				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
 				<li><a href='#' accesskey='7' title=''>GEII ET R&amp;T</a></li>
@@ -31,6 +32,10 @@
 			<h1><a href="#">R&T Malaisie</a></h1>
 			<span></span> </div>
 	</div>
+	<div id="traduit">
+			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../cover/anglais.png" alt="anglais"></a>
+	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
@@ -40,10 +45,10 @@
 	</div>
 </div>
 <div id="wrapper3">
-	<div id="wrapper-blog" class="container">
+	<div id="wrapper-blog" >
 		<div id="post">
-			<div class="post"> <span class="date"></span>
-				<h2><strong>Les Formations R&T &aacute; Sophia Antipolis</strong></h2>
+			<div class="post no-border"> <span class="date"></span>
+				<h2><strong>Les Formations R&amp;T &aacute; Sophia Antipolis</strong></h2>
 				<p>
 					Toutes les informations ci-dessous sont extraites du site officiel du département. Pour en savoir plus, vous pouvez y accéder directement en cliquant <a href="http://rt.unice.fr/RT/index.php" target="_blank">ici</a>.
 	Le département propose plusieurs formations :
@@ -74,10 +79,10 @@
 			
 		</div>
 		<div id="list">
-			<div id="theFixed" style="position:fixed;top:1100px; right:50px;">
-					<ul class="style2">
-						<?php  include ('menu.php'); ?>
-					</ul>
+			<div id="theFixed">
+				<ul class="style2">
+					<?php  include ('menu.php'); ?>
+				</ul>
 			</div>
 			<div id="lbox1">
 				<ul class="style1">
@@ -104,8 +109,8 @@
 <script>
 jQuery(document).ready(function(){
     window.onscroll = function() {
-        if (window.pageYOffset >= 600 && window.pageYOffset <= 1050){
-            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'130px'});
+        if (window.pageYOffset >= 600 && window.pageYOffset <= 950){
+            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'120px'});
         }
         else {
             jQuery('#theFixed').css({position: ''});

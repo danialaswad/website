@@ -7,6 +7,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
 <link href="style.css" rel="stylesheet" type="text/css" media="all" />
 <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
@@ -19,7 +20,7 @@
 			<ul>
 				<li class='current_page_item'><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
 				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li><a href='#' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='#' accesskey='4' title=''>CAMPUS FRANCE</a></li>
 				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
 				<li><a href='#' accesskey='7' title=''>GEII ET R&amp;T</a></li>
@@ -29,7 +30,12 @@
 		</div>
 		<div id="logo">
 			<h1><a href="#">R&T Malaisie</a></h1>
-			<span></span> </div>
+			<span></span> 
+		</div>	
+	</div>
+	<div id="traduit">
+			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
@@ -71,7 +77,7 @@
 					}
 			</script>
 			<br>			
-			<span class="byline"> Le site R&T Malaisie a pour but de donner une idée à quoi va les étudiants rencontrer pendant son sejour en France. Il
+			<span class="byline"> Le site R&amp;T Malaisie a pour but de donner une idée à quoi va les étudiants rencontrer pendant son sejour en France. Il
 			cert aussi à creer une rélation professionelle entre les anciens étudiants malaisiens R&T et ceux de nouveaux.			
 			</span> 
 		</div>
@@ -81,7 +87,7 @@
 	</div>
 </div>
 <div id="wrapper3">
-	<div id="wrapper-blog" class="container">
+	<div id="wrapper-blog">
 		<div id="post">
 			<h1></h1><br>
 			<div class="post"> <span class="date"></span> 
@@ -142,8 +148,8 @@
 <script>
 jQuery(document).ready(function(){
     window.onscroll = function() {
-        if (window.pageYOffset >= 1000 && window.pageYOffset <= 1880){
-            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'130px'});
+        if (window.pageYOffset >= 1000 && window.pageYOffset <= 1800){
+            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'123px'});
         }
         else {
             jQuery('#theFixed').css({position: ''});
@@ -153,7 +159,7 @@ jQuery(document).ready(function(){
 
 </script>
 <div id="wrapper2">
-	<div id="links">
+	<div id="links"class="container">
 			<h2>Liens Externes</h2>
 				<ul class="style2">
 					<li><strong>IUT Nice Côte d’azur</strong><br/>
@@ -173,7 +179,7 @@ jQuery(document).ready(function(){
 						Adresse web : <a href ="http://www.malaisie.campusfrance.org/en/" target="_blank">http://www.malaisie.campusfrance.org/en/</a></li>
 				</ul>
 	</div>
-	<div id="contact">
+	<div id="contact"class="container">
 		<h2>Contacts</h2>
 		<ul class="style2">
 					<li><strong>Cecile CHAGNON</strong><br>
