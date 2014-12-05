@@ -107,15 +107,19 @@
 </div>
 
 <script>
-jQuery(document).ready(function(){
-    window.onscroll = function() {
-        if (window.pageYOffset >= 600 && window.pageYOffset <= 950){
-            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'120px'});
-        }
-        else {
-            jQuery('#theFixed').css({position: ''});
-        }
+///side menu script
+$('#theFixed').click(function(){
+    $(window).scrollTop(0);
+});
+$(window).scroll(function(){
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<980) {
+        isVisible = true;
+        $('#theFixed').show();
     }
+    else{
+    	$('#theFixed').hide();
+    }
+
 });
 </script>
 <div id="wrapper2">

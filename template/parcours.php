@@ -7,8 +7,6 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <!--jquery files-->
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script src="jquery/jquery.slides.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
@@ -34,6 +32,10 @@
 		<div id="logo">
 			<h1><a href="#">R&T Malaisie</a></h1>
 			<span></span> </div>
+	</div>
+	<div id="traduit">
+			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
@@ -88,18 +90,19 @@
     				La dernière semaine à l'IUT, les étudiants malaisiens passent une petite interrogation sur les matières étudiées 
     				(maths, physique, réseaux et informatique).<br><br>
     				<strong>Quelques photos de l'Alliance Française :</strong><br>
-    				<div id="slides">
-    					<img src="../cover/alliancef1.PNG" alt="AF" class="AF1"/>
-    					<img src="../cover/alliancef2.PNG" alt="AF" class="AF2"/>
-    					<img src="../cover/alliancef3.PNG" alt="AF" class="AF3"/>
-    					<img src="../cover/alliancef4.PNG" alt="AF" class="AF4"/>
-    				</div>
+						<ul>
+							<li><img src="../cover/alliancef1.PNG" alt="AF" class="imgL"/></li>
+    						<li><img src="../cover/alliancef2.PNG" alt="AF" class="imgR"/></li>
+    						<li><img src="../cover/alliancef3.PNG" alt="AF" class="imgL"/></li>
+    						<li><img src="../cover/alliancef4.PNG" alt="AF" class="imgR"/></li>
+    					</ul>
+    				<br>
     			</p>
 			</div>
 			
 		</div>
 		<div id="list">
-			<div id="theFixed" style="position:fixed;top:1100px; right:50px;">
+			<div id="theFixed">
 					<ul class="style2">
 						<?php  include ('menu.php'); ?>
 					</ul>
@@ -128,24 +131,19 @@
 
 <script>
 ///side menu script
-jQuery(document).ready(function(){
-    window.onscroll = function() {
-        if (window.pageYOffset >= 600 && window.pageYOffset <= 1050){
-            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'130px'});
-        }
-        else {
-            jQuery('#theFixed').css({position: ''});
-        }
-    }
+$('#theFixed').click(function(){
+    $(window).scrollTop(0);
 });
+$(window).scroll(function(){
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
+        isVisible = true;
+        $('#theFixed').show();
+    }
+    else{
+    	$('#theFixed').hide();
+    }
 
-///slideshow script
-$(function(){
-      $("#slides").slidesjs({
-        width: 400,
-        height: 360
-      });
-    });
+});
 </script>
 
 <div id="wrapper2">

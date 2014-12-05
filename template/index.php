@@ -6,6 +6,7 @@
 <title>R&amp;TM</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
+<!--jquery files-->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
@@ -146,15 +147,19 @@
 </div>
 
 <script>
-jQuery(document).ready(function(){
-    window.onscroll = function() {
-        if (window.pageYOffset >= 1000 && window.pageYOffset <= 1800){
-            jQuery('#theFixed').css({position: 'fixed', top: '0px', right:'123px'});
-        }
-        else {
-            jQuery('#theFixed').css({position: ''});
-        }
+///side menu script
+$('#theFixed').click(function(){
+    $(window).scrollTop(0);
+});
+$(window).scroll(function(){
+    if ($(window).scrollTop()>880 && $(window).scrollTop()<1780) {
+        isVisible = true;
+        $('#theFixed').show();
     }
+    else{
+    	$('#theFixed').hide();
+    }
+
 });
 
 </script>
