@@ -6,6 +6,7 @@
 <title>R&amp;TM</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
+<!--jquery files-->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
@@ -19,12 +20,12 @@
 		<div id="menu">
 			<ul>
 				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li class='current_page_item'><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
 				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
-				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
+				<li class='current_page_item'><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
 		</div>
@@ -40,49 +41,40 @@
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Formations</h2>		
+			<h2>Album</h2>		
 		</div>
 	</div>
 </div>
 <div id="wrapper3">
-	<div id="wrapper-blog" >
+	<div id="wrapper-blog" class="container">
 		<div id="post">
+			<div class="post"> <span class="date"></span>
+				<h2><strong>Sortie &agrave; Marineland</strong></h2>
+				<p>Le 17 juin 2013, nous avons fait une excursion avec les autres &eacute;tudiants malaisiens de l'IUT GEII &agrave; Marineland.<br/> 
+	<a href="Marineland-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				</p>
+			</div>
+			<div class="post"> <span class="date"></span>
+				<h2><strong>Sortie cheval</strong></h2>
+				<p>Le 16 novembre 2013, nous sommes all&eacute;s &agrave; Sainte Agn&egrave;s pr&egrave;s de Menton pour faire du cheval.
+				<br>
+				<a href="SortieCheval-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				</p>
+			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Les Formations R&amp;T &aacute; Sophia Antipolis</strong></h2>
-				<p>
-					Toutes les informations ci-dessous sont extraites du site officiel du département. Pour en savoir plus, vous pouvez y accéder directement en cliquant <a href="http://rt.unice.fr/RT/index.php" target="_blank">ici</a>.
-	Le département propose plusieurs formations :
-	<br><br>
-
-	&diams;  &nbsp; &nbsp;<a href="http://rt.unice.fr/RT/index.php/fr/formations/dut-rt" target="_blank">DUT R&amp;T</a> : 
-	Dipl&ocirc;me Universitaire de Technologie R&eacute;seaux &amp; T&eacute;l&eacute;coms
-	Ce dipl&ocirc;me (2 ans de formation, niveau L2) pr&eacute;pare &agrave; la vie active, 
-	mais permet aussi aux &eacute;tudiants de continuer en &Eacute;coles d'Ing&eacute;nieurs, 
-	en L3 &agrave; l'Universit&eacute;, ou en Licence Professionnelle. Pour en savoir plus 
-	sur la poursuite d'&eacute;tudes, 
-	cliquez <a href="http://rt.unice.fr/RT/index.php/fr/poursuite-detudes" target="_blank">ici</a>.<br><br>
-	&diams;  &nbsp; &nbsp;<a href="http://rt.unice.fr/RT/index.php/fr/formations/licence-pro-irm" target="_blank">
-	Licence Pro R&amp;T option RSFS</a> : Licence Professionnelle R&eacute;seaux et  T&eacute;l&eacute;coms option
-	<em> R&eacute;seaux sans Fils S&eacute;curit&eacute;.</em>
-	Cette  formation (1 an) accueille un public d'&eacute;tudiants titulaires d'un BAC+2  scientifique, 
-	et permet de boucler le Premier niveau LMD 
-	(Licence - Maitrise - Doctorat) pour des &eacute;tudes  courtes. Effectu&eacute;e principalement 
-	en apprentissage au sein d'une entreprise, c'est une excellente 
-	opportunit&eacute; pour int&eacute;grer la vie  active au bout de 3 ans d'&eacute;tudes.<br><br>
-	&diams;  &nbsp; &nbsp; <a href="http://rt.unice.fr/RT/index.php/fr/formations/licence-pro-isvd" target="_blank">
-	Licence Pro R&amp;T option ISVD</a> : Licence Professionnelle R&eacute;seaux et  T&eacute;l&eacute;coms option<em> 
-	Int&eacute;gration des Syst&eacute;mes  Voix/Donn&eacute;es.</em>
-	Comme pour la  sp&eacute;cialit&eacute; RSFS, cette formation d'un an est une excellente opportunit&eacute; 
-	 pour int&eacute;grer la vie active au bout de 3 ans d'&eacute;tudes. 
-	Cette  formation peut se faire en formation initiale ou en alternance.</p>
+				<h2><strong>Pique-nique &agrave; carras</strong></h2>
+				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.
+				<br>
+				<a href="Piquenique-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+    			</p>
 			</div>
 			
 		</div>
 		<div id="list">
 			<div id="theFixed">
-				<ul class="style2">
-					<?php  include ('menu.php'); ?>
-				</ul>
+					<ul class="style2">
+						<?php  include ('menu.php'); ?>
+					</ul>
 			</div>
 			<div id="lbox1">
 				<ul class="style1">
@@ -112,7 +104,7 @@ $('#theFixed').click(function(){
     $(window).scrollTop(0);
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<980) {
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
         isVisible = true;
         $('#theFixed').show();
     }
@@ -122,12 +114,13 @@ $(window).scroll(function(){
 
 });
 </script>
+
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
 			<h2>Liens Externes</h2>
 				<ul class="style2">
-					<li><strong>IUT Nice Côte d’azur</strong><br/>
+					<li><strong>IUT Nice C�te d�azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
 						650, Route des Colles, 06560 Valbonne<br/>
 						Adresse &eacute;lectronique : rt@iutsoph.unice.fr<br/>

@@ -6,6 +6,7 @@
 <title>R&amp;TM</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
+<!--jquery files-->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
@@ -19,11 +20,11 @@
 		<div id="menu">
 			<ul>
 				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li class='current_page_item'><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
 				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
+				<li class='current_page_item'><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
@@ -40,49 +41,54 @@
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Formations</h2>		
+			<h2>GEII et R&amp;T</h2>		
 		</div>
 	</div>
 </div>
 <div id="wrapper3">
-	<div id="wrapper-blog" >
+	<div id="wrapper-blog" class="container">
 		<div id="post">
-			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Les Formations R&amp;T &aacute; Sophia Antipolis</strong></h2>
-				<p>
-					Toutes les informations ci-dessous sont extraites du site officiel du département. Pour en savoir plus, vous pouvez y accéder directement en cliquant <a href="http://rt.unice.fr/RT/index.php" target="_blank">ici</a>.
-	Le département propose plusieurs formations :
-	<br><br>
-
-	&diams;  &nbsp; &nbsp;<a href="http://rt.unice.fr/RT/index.php/fr/formations/dut-rt" target="_blank">DUT R&amp;T</a> : 
-	Dipl&ocirc;me Universitaire de Technologie R&eacute;seaux &amp; T&eacute;l&eacute;coms
-	Ce dipl&ocirc;me (2 ans de formation, niveau L2) pr&eacute;pare &agrave; la vie active, 
-	mais permet aussi aux &eacute;tudiants de continuer en &Eacute;coles d'Ing&eacute;nieurs, 
-	en L3 &agrave; l'Universit&eacute;, ou en Licence Professionnelle. Pour en savoir plus 
-	sur la poursuite d'&eacute;tudes, 
-	cliquez <a href="http://rt.unice.fr/RT/index.php/fr/poursuite-detudes" target="_blank">ici</a>.<br><br>
-	&diams;  &nbsp; &nbsp;<a href="http://rt.unice.fr/RT/index.php/fr/formations/licence-pro-irm" target="_blank">
-	Licence Pro R&amp;T option RSFS</a> : Licence Professionnelle R&eacute;seaux et  T&eacute;l&eacute;coms option
-	<em> R&eacute;seaux sans Fils S&eacute;curit&eacute;.</em>
-	Cette  formation (1 an) accueille un public d'&eacute;tudiants titulaires d'un BAC+2  scientifique, 
-	et permet de boucler le Premier niveau LMD 
-	(Licence - Maitrise - Doctorat) pour des &eacute;tudes  courtes. Effectu&eacute;e principalement 
-	en apprentissage au sein d'une entreprise, c'est une excellente 
-	opportunit&eacute; pour int&eacute;grer la vie  active au bout de 3 ans d'&eacute;tudes.<br><br>
-	&diams;  &nbsp; &nbsp; <a href="http://rt.unice.fr/RT/index.php/fr/formations/licence-pro-isvd" target="_blank">
-	Licence Pro R&amp;T option ISVD</a> : Licence Professionnelle R&eacute;seaux et  T&eacute;l&eacute;coms option<em> 
-	Int&eacute;gration des Syst&eacute;mes  Voix/Donn&eacute;es.</em>
-	Comme pour la  sp&eacute;cialit&eacute; RSFS, cette formation d'un an est une excellente opportunit&eacute; 
-	 pour int&eacute;grer la vie active au bout de 3 ans d'&eacute;tudes. 
-	Cette  formation peut se faire en formation initiale ou en alternance.</p>
+			<div class="post"> <span class="date"></span>
+				<h2><strong>Photo de groupe PF10 R&amp;T et GEII</strong></h2>
+				<img src="./images/groupPF10.jpg" alt="groupPF10" /><br>
+				Durant le premier semestre de formation à l'université de Kuala Lumpur, les étudiants suivent la filière ingénierie. 
+	Mais à partir du deuxième semestre du 
+	programme Pre-France, ils doivent choisir leur spécialité qui va décider de l'IUT auquel ils s'inscriront.
+	Pour accéder à cette formation, il faut obtenir de bons resultats au SPM.<br><br>
+	&diams;&nbsp;&nbsp;Le département RT (Réseaux et Télécommunications) forme de futurs diplômés dans tous les métiers des nouvelles technologies de communication. <br>
+	&nbsp;&nbsp;&nbsp;Il fait partie du campus universitaire SophiaTech, au coeur de Sophia Antipolis, la plus grande technopole d’Europe.<br><br>
+	&nbsp;&nbsp;&nbsp;Les principales matières enseignées en R&amp;T sont :<br>
+	&nbsp;&nbsp;&nbsp;- Réseaux et Internet<br>
+	&nbsp;&nbsp;&nbsp;- Langues et communication<br>
+	&nbsp;&nbsp;&nbsp;- Télécommunication fixes et mobiles<br>
+	&nbsp;&nbsp;&nbsp;- Informatique<br>
+	&nbsp;&nbsp;&nbsp;- Mathématiques<br>
+	&nbsp;&nbsp;&nbsp;- Electronique et physique <br>
+	&nbsp;&nbsp;&nbsp;- Connaissance de l'entreprise<br><br>
+	&diams;&nbsp;&nbsp;Le département GEII (Génie Electrique et Informatique industrielle) lui, forme ses futurs diplômés dans des secteurs qui relèvent de l'électricité,
+	&nbsp;&nbsp;de l'électronique de l'informatique industrielle et de leurs applications. Les compétences du diplômé GEII s'exercent également dans des secteurs aussi divers 
+	&nbsp;&nbsp;&nbsp;que  les industries de transformation et manufacturières, la gestion de l’énergie, les transports et l’automobile, la santé, 
+	l’agroalimentaire et tant d'autres.<br><br>
+	&nbsp;&nbsp;&nbsp;Les principales matières enseignées en GEII sont :<br>
+	&nbsp;&nbsp;&nbsp;- Mathématiques, physique, culture<br>
+	&nbsp;&nbsp;&nbsp;- Expression et communication<br>
+	&nbsp;&nbsp;&nbsp;- Anglais<br>
+	&nbsp;&nbsp;&nbsp;- Energie électrique<br>
+	&nbsp;&nbsp;&nbsp;- Electrotechnique et électronique de puissance<br>
+	&nbsp;&nbsp;&nbsp;- Informatique industrielle, électronique numérique, synthèse logique<br><br>
+	On constate alors que la différence entre les deux filières est la spécialité de chacune d'entre elles. Les matières étudiées sont presque les mêmes ce qui
+	en résulte qu'en poursuite d'études, les étudiants peuvent opter pour la même licence professionnelle ou le même master, mais tout dépendra de la matière 
+	vers laquelle penche l'étudiant ou par laquelle il est passionné.<br><br>
+	<strong>* Quelques exemples d'écoles d'ingénieurs pour une poursuite d'études longues :</strong><br>
+	SUPELEC, ENSI, INSA, Arts et Métiers, Réseau Polytech.
 			</div>
 			
 		</div>
 		<div id="list">
 			<div id="theFixed">
-				<ul class="style2">
-					<?php  include ('menu.php'); ?>
-				</ul>
+					<ul class="style2">
+						<?php  include ('menu.php'); ?>
+					</ul>
 			</div>
 			<div id="lbox1">
 				<ul class="style1">
@@ -112,7 +118,7 @@ $('#theFixed').click(function(){
     $(window).scrollTop(0);
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<980) {
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<1700) {
         isVisible = true;
         $('#theFixed').show();
     }
@@ -122,6 +128,7 @@ $(window).scroll(function(){
 
 });
 </script>
+
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">

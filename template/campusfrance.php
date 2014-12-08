@@ -21,8 +21,8 @@
 			<ul>
 				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
 				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li class='current_page_item'><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
-				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li class='current_page_item'><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
 				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
@@ -41,7 +41,9 @@
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Parcours</h2>		
+			<h2>Campus France</h2>
+			<br>		
+			<a href="http://www.malaisie.campusfrance.org/en/" target="_blank"><img src="./images/campusfrancelogo.jpg" alt="ronde des facs" class="marine-banner"/></a>
 		</div>
 	</div>
 </div>
@@ -49,54 +51,57 @@
 	<div id="wrapper-blog" class="container">
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>1. SPM</strong></h2>
-				<p>Il est obligatoire de bien reussir le SPM (Sijil Pelajaran Malaysia) qui est 
-					le plus grand examen &agrave; la fin de la derni&egrave;re ann&eacute;e scolaire 
-					pour &ecirc;tre &eacute;ligible au programme Pre-France. Il est l'&eacute;quivalent 
-					du BAC fran&ccedil;ais.
+				<h2><strong>1. Apprendre le fran&ccedil;ais</strong></h2>
+				<p>Pour venir &eacute;tudier en France, le niveau "interm&eacute;daire avanc&eacute;" (B1, B2) est g&eacute;n&eacute;ralement suffisant et 
+		pour s'inscrire en premi&egrave;re ou deuxi&egrave;me ann&eacute;e &agrave; l'universit&eacute;, les candidats &eacute;trangers (non europ&eacute;ens) doivent 
+		obligatoirement suivre la proc&eacute;dure de "Demande d'Admission Pr&eacute;alable" (DAP). Dans ce cadre, ils doivent justifier de leur niveau de fran&ccedil;ais 
+		en effectuant un test de langue. L'apprentissage
+		de la langue fran&ccedil;aise se fait &agrave; l'Universit&eacute; de Kuala Lumpur en Malaisie et &agrave; l'Alliance Fran&ccedil;aise &agrave; Nice en France.<br><br>
+		Attention : l'ignorance de la langue fran&ccedil;aise sont les premi&egrave;res causes d'&eacute;chec des &eacute;tudiants &eacute;trangers.
 				</p>
 			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong>2. Pre-France</strong></h2>
-				<p>Le Pre-France est un programme ayant pour but de donner aux &eacute;tudiants malaisiens 
-					l'opportunit&eacute; de poursuivre leurs &eacute;tudes en France.Ce programme est compos&eacute; 
-					de 4 semestres. On parle ici de  2 ans d’apprentissage de la langue fran&ccedil;aise et une 
-					premi&egrave;re formation en sciences de l’ing&eacute;nieur. Les jeunes &eacute;tudiants recrut&eacute;s 
-					à la fin de leurs études secondaires sont s&eacute;lectionn&eacute;s et form&eacute;s sp&eacute;cialement 
-					durant 2 ans &agrave; l’Universit&eacute; de Kuala Lumpur o&ugrave; ils re&ccedil;oivent un enseignement 
-					intense en fran&ccedil;ais langue &eacute;trang&egrave;re (FLE) et aux sciences de l’ing&eacute;nieur.
-					Les mati&egrave;res &eacute;tudi&eacute;es sont :
-					<br><br><img src="../cover/matieres.jpg" alt="matieres">
-					<br><br>D&egrave;s le deuxi&egrave;me semestre, les &eacute;tudiants doivent choisir leur sp&eacute;cialit&eacute; 
-					qui va d&eacute;cider l'IUT auquel ils s'inscriront.</p>
+				<h2><strong>2. S'inscrire &agrave; l'IUT</strong></h2>
+				<p>Le Campus France g&egrave;re tout ce qui concerne l'inscription &agrave; l'IUT. Nous ne devons remplir que quelques formulaires.</p>
+			</div>
+
+			<div class="post"> <span class="date"></span>
+				<h2><strong>3. Obtenir un visa</strong></h2>
+				<p>Il faut, d&egrave;s l'arriv&eacute;e en France, adresser &agrave; l'OFII par lettre recommand&eacute;e avec accus&eacute; de r&eacute;ception :
+				<br><br>
+- le formulaire de demande d'attestation OFII vis&eacute; par l'autorit&eacute; ayant d&eacute;livr&eacute; le visa et compl&eacute;t&eacute; par le demandeur <br>
+- la copie des pages du passeport o&uacute; figurent les informations l'identit&eacute; du titulaire et le cachet attestant de l'entr&eacute;e en France ou dans 
+l'Espace Schengen.
+<br><br>
+D&egrave;s r&eacute;ception de ces documents, la direction territoriale de l'OFII adresse par lettre simple une attestation de r&eacute;ception du formulaire &agrave; 
+l'adresse indiqu&eacute;e par le demandeur et le convoque, selon les cas &agrave; une visite m&eacute;dicale si elle n'a pas &eacute;t&eacute; pass&eacute;e dans le pays d'origine ou &agrave; 
+une visite d'accueil.<br>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>3. Bridging Programme <br>(cours FLE intensif)</strong></h2>
-				<p>4 mois de programme d’int&eacute;gration dit « Bridging Programme ». De mi-avril à fin ao&ucirc;t, les étudiants sont 
-					r&eacute;partis en France dans les 4 villes des IUT concern&eacute;s 
-					pour une p&eacute;riode d’int&eacute;gration durant laquelle ils sont h&eacute;berg&eacute;s en familles d’accueil, 
-					puis en r&eacute;sidence Universitaire. Ils re&ccedil;oivent un enseignement intensif
-					en immersion en FLE, ainsi que des cours de remise &agrave; niveau de sciences et technologie.<br><br>
-					Les cours de langue française se déroulent à l'Alliance Française et sont répartis de la façon suivante :<br>
-    				- Mai: 4 heures de cours le matin (de 8h00 à midi).<br>
-    				- Juin : 3 heures de cours le matin (de 8h00 à 11h00). Et en après-midi, cours à l'IUT à partir de midi.<br>
-   					- Juillet : Mêmes créneaux que ceux du mois de juin pour les deux premières semaines. Pour les deux dernières semaines, cours à l'Alliance Française de 13h00 à 17h00.<br>
-    				- Août : Cours à l'Alliance Française (de 13h00 à 17h00).<br><br>
-    				Pendant les deux premiers mois &agrave; l'Alliance Fran&ccedil;aise, ils sont mélangés avec d'autres étudiants 
-    				étrangers, et classés en groupes selon le niveau de la langue française (B1/B2). 
-    				Alors que pendant les deux derniers mois, ils sont classés en deux groupes de malaisiens pour une préparation 
-    				pour le TCF (Test de connaissance du Français) qui a lieu 
- 					en fin août.<br><br>
-    				La dernière semaine à l'IUT, les étudiants malaisiens passent une petite interrogation sur les matières étudiées 
-    				(maths, physique, réseaux et informatique).<br><br>
-    				<strong>Quelques photos de l'Alliance Française :</strong><br>
-						<ul>
-							<li><img src="../cover/alliancef1.PNG" alt="AF" class="imgL"/></li>
-    						<li><img src="../cover/alliancef2.PNG" alt="AF" class="imgR"/></li>
-    						<li><img src="../cover/alliancef3.PNG" alt="AF" class="imgL"/></li>
-    						<li><img src="../cover/alliancef4.PNG" alt="AF" class="imgR"/></li>
-    					</ul>
-    				<br>
+				<h2><strong>4. Se soigner</strong></h2>
+				<p>La protection m&eacute;dicale fran&ccedil;aise, assur&eacute;e par la S&eacute;curit&eacute; sociale, est de tr&egrave;s bonne qualit&eacute; : elle permet d'obtenir le remboursement d'une partie 
+	des frais m&eacute;dicaux pour une cotisation &eacute;tudiante de base de 211 euros en 2013-2014 (1). Cette adh&eacute;sion se fait dans l'&eacute;tablissement d'enseignement 
+	au moment de l'inscription administrative. Elle est obligatoire pour les &eacute;tudiants non europ&eacute;ens.
+<br><br>
+Les &eacute;tudiants ressortissants de l'Espace Economique Europ&eacute;en en sont dispens&eacute;s d&egrave;s lors qu'ils sont titulaires pour toute l'ann&eacute;e universitaire d'une 
+carte europ&eacute;enne d'assurance maladie (ou de son attestation provisoire) , ou d'une attestation d'assurance priv&eacute;e couvrant l'ensemble des risques 
+m&eacute;dicaux sans restrictions tarifaires.
+<br><br>
+Les deux principales mutuelle &eacute;tudiantes sont :
+<br><br>
+&diams;  &nbsp; &nbsp;La LMDE (La Mutuelle des &Eacute;tudiants)<br>
+&diams;  &nbsp; &nbsp;emVia, qui regroupe 11 mutuelles &eacute;tudiantes r&eacute;gionales
+<br><br>
+Pour b&eacute;n&eacute;ficier de la S&eacute;curit&eacute; sociale "&eacute;tudiante", les &eacute;tudiants doivent &ecirc;tre &acirc;g&eacute;s de moins de 28 ans et &ecirc;tre inscrits dans un &eacute;tablissement 
+d'enseignement sup&eacute;rieur agr&eacute;&eacute; pendant au moins 4 mois. 
+	<br><br>
+	
+	<em>Pour des informations en plus, veuillez aller sur le site de Campus France en cliquant <a href="http://www.malaisie.campusfrance.org/en/" target="_blank">ici</a>.</em>
+	<br><br>
+	<strong>Représntante de Campus France à l'IUT de Nice Sophia Antipolis</strong><br>
+	Mme CAMPION Françoise<br>
+	Francoise.Campion@campusfrance.org
+	<br>
     			</p>
 			</div>
 			
@@ -135,7 +140,7 @@ $('#theFixed').click(function(){
     $(window).scrollTop(0);
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<2600) {
         isVisible = true;
         $('#theFixed').show();
     }
