@@ -6,12 +6,11 @@
 <title>R&amp;TM</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
-<!--jquery files-->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-<link href="style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -19,13 +18,13 @@
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
-				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='index.php' accesskey='1' title=''>HOME</a></li>
+				<li class='current_page_item'><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
-				<li class='current_page_item'><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
+				<li><a href='#' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
+				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
 		</div>
@@ -34,47 +33,59 @@
 			<span></span> </div>
 	</div>
 	<div id="traduit">
-			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/album.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="../formation.php"><img src="../../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Album</h2>		
+			<h2>Programmes</h2>		
 		</div>
 	</div>
 </div>
 <div id="wrapper3">
-	<div id="wrapper-blog" class="container">
+	<div id="wrapper-blog" >
 		<div id="post">
-			<div class="post"> <span class="date"></span>
-				<h2><strong>Sortie &agrave; Marineland</strong></h2>
-				<p>Le 17 juin 2013, nous avons fait une excursion avec les autres &eacute;tudiants malaisiens de l'IUT GEII &agrave; Marineland.<br/> 
-	<a href="Marineland-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
-				</p>
-			</div>
-			<div class="post"> <span class="date"></span>
-				<h2><strong>Sortie cheval</strong></h2>
-				<p>Le 16 novembre 2013, nous sommes all&eacute;s &agrave; Sainte Agn&egrave;s pr&egrave;s de Menton pour faire du cheval.
-				<br>
-				<a href="SortieCheval-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
-				</p>
-			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Pique-nique &agrave; carras</strong></h2>
-				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.
-				<br>
-				<a href="Piquenique-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
-    			</p>
+				<h2><strong>Networking and Telecommunications Programmes in Sophia Antipolis</strong></h2>
+				<p>The information provided below is taken from the official website of the department. 
+					To learn more about the programmes offered, please proceed directly to the site by clickingÂ 
+					<a href="http://rt.unice.fr/RT/index.php" target="_blank">here</a>.
+	The department offers three programmes :
+	<br><br>
+
+	&diams; <a href="http://rt.unice.fr/RT/index.php/fr/formations/dut-rt" target="_blank">DUT R&amp;T</a> : 
+	Dipl&ocirc;me Universitaire de Technologie R&eacute;seaux &amp; T&eacute;l&eacute;coms </br>
+	This diploma (a 2-year course, level L2) prepares the students for professional openings, 
+	and also gives them the opportunity to continue their studies in
+	&Eacute;coles d'Ing&eacute;nieurs (Engineering Schools), in L3 at the university, or in Licence 
+	Professionnelle. For further information regarding the contiation of studies,
+	please click <a href="http://rt.unice.fr/RT/index.php/fr/poursuite-detudes" target="_blank">here</a>.
+	<br><br>
+	&diams;<a href="http://rt.unice.fr/RT/index.php/fr/formations/licence-pro-irm" target="_blank">
+	Licence Pro R&amp;T option RSFS</a> : Licence Professionnelle R&eacute;seaux et  T&eacute;l&eacute;coms 
+	option<em> R&eacute;seaux sans Fils S&eacute;curit&eacute;.</em><br>
+	 This program (a 1-year course) welcomes all BAC +2 students in the science stream, and allows them to 
+	 complete the first level LMD
+	 (Licence - Maitrise - Doctorat) for short-term studies. Carried out primarily in apprenticeship in 
+	 a company, it is an excellent approach to smoothly transition 
+	 into working life after three years of studies.
+	<br><br>
+	&diams; <a href="http://rt.unice.fr/RT/index.php/fr/formations/licence-pro-isvd" target="_blank">
+	Licence Pro R&amp;T option ISVD</a> : Licence Professionnelle R&eacute;seaux et  T&eacute;l&eacute;coms 
+	option<em> Int&eacute;gration des Syst&eacute;mes  Voix/Donn&eacute;es.</em><br>
+	As for the RSFS speciality, this programme is an excellent way to transition into working life after 
+	three year of studies. 
+	The training can be either a normal full-time course or a sandwich course.</p>
 			</div>
 			
 		</div>
 		<div id="list">
 			<div id="theFixed">
-					<ul class="style2">
-						<?php  include ('menu.php'); ?>
-					</ul>
+				<ul class="style2">
+					<?php  include ('menu.php'); ?>
+				</ul>
 			</div>
 			<div id="lbox1">
 				<ul class="style1">
@@ -104,7 +115,7 @@ $('#theFixed').click(function(){
     $(window).scrollTop(0);
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<980) {
         isVisible = true;
         $('#theFixed').show();
     }
@@ -114,13 +125,12 @@ $(window).scroll(function(){
 
 });
 </script>
-
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
-			<h2>Liens Externes</h2>
+			<h2>External links</h2>
 				<ul class="style2">
-					<li><strong>IUT Nice Côte d’azur</strong><br/>
+					<li><strong>IUT Nice CÃ´te dâ€™azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
 						650, Route des Colles, 06560 Valbonne<br/>
 						Adresse &eacute;lectronique : rt@iutsoph.unice.fr<br/>

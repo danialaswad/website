@@ -35,7 +35,7 @@
 	</div>
 	<div id="traduit">
 			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="#"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="en/geiirt.php"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
@@ -48,7 +48,7 @@
 <div id="wrapper3">
 	<div id="wrapper-blog" class="container">
 		<div id="post">
-			<div class="post"> <span class="date"></span>
+			<div class="post no-border"> <span class="date"></span>
 				<h2><strong>Photo de groupe PF10 R&amp;T et GEII</strong></h2>
 				<img src="./images/groupPF10.jpg" alt="groupPF10" /><br>
 				Durant le premier semestre de formation à l'université de Kuala Lumpur, les étudiants suivent la filière ingénierie. 

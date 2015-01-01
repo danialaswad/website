@@ -10,8 +10,8 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-<link href="style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -19,12 +19,12 @@
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
-				<li class='current_page_item'><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li class='current_page_item'><a href='index.php' accesskey='1' title=''>HOME</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
+				<li><a href='#' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
@@ -35,22 +35,22 @@
 		</div>	
 	</div>
 	<div id="traduit">
-			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/index.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="../index.php"><img src="../../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Bienvenue sur le site du R&amp;T Malaisie</h2>
+			<h2>Welcome to R&amp;T:Malaisie website</h2>
 			<br>
 			<div id="banner">
 				<!-- liste of slideshow image -->
-				<img src="../cover/banner.jpg" alt="image" class="is-showing">
-				<img src="../cover/banner1.jpg" alt="image1">
-				<img src="../cover/banner2.jpg" alt="image2">
-				<img src="../cover/banner3.jpg" alt="image3">
-				<img src="../cover/banner5.jpg" alt="image5">
+				<img src="../../cover/banner.jpg" alt="image" class="is-showing">
+				<img src="../../cover/banner1.jpg" alt="image1">
+				<img src="../../cover/banner2.jpg" alt="image2">
+				<img src="../../cover/banner3.jpg" alt="image3">
+				<img src="../../cover/banner5.jpg" alt="image5">
 			</div>
 			<script type="text/javascript">
 				/*Script for the image slideshow*/
@@ -165,7 +165,7 @@ $(window).scroll(function(){
 </script>
 <div id="wrapper2">
 	<div id="links"class="container">
-			<h2>Liens Externes</h2>
+			<h2>External links</h2>
 				<ul class="style2">
 					<li><strong>IUT Nice Côte d’azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>

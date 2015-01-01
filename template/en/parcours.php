@@ -10,8 +10,8 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-<link href="style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -19,13 +19,13 @@
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
-				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='index.php' accesskey='1' title=''>HOME</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
+				<li class='current_page_item'><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
-				<li class='current_page_item'><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
+				<li><a href='#' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
+				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
 		</div>
@@ -34,14 +34,14 @@
 			<span></span> </div>
 	</div>
 	<div id="traduit">
-			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/album.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="../parcours.php"><img src="../../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Album</h2>		
+			<h2>Admission</h2>		
 		</div>
 	</div>
 </div>
@@ -49,23 +49,52 @@
 	<div id="wrapper-blog" class="container">
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Sortie &agrave; Marineland</strong></h2>
-				<p>Le 17 juin 2013, nous avons fait une excursion avec les autres &eacute;tudiants malaisiens de l'IUT GEII &agrave; Marineland.<br/> 
-	<a href="Marineland-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				<h2><strong>1. SPM</strong></h2>
+				<p>All students wishing to enroll in the Pre-France Programme must do well in SPM 
+					(Sijil Pelajaran Malaysia) which is the biggest examination taken by final year 
+					secondary school students, and fulfill certain prerequisites. The SPM is the equivalent
+					 of the French BAC.
 				</p>
 			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Sortie cheval</strong></h2>
-				<p>Le 16 novembre 2013, nous sommes all&eacute;s &agrave; Sainte Agn&egrave;s pr&egrave;s de Menton pour faire du cheval.
-				<br>
-				<a href="SortieCheval-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
-				</p>
+				<h2><strong>2. Pre-France</strong></h2>
+				<p>The Pre-France Programme is designed to give Malaysian students the opportunity to pursue their studies in France. The programme consists of four semesters. During a period of two years, the students undergo an intensive French language course and learn the basics of engineering sciences. The students enrolled at the end of their secondary education
+	are specially selected and formed at Universiti Kuala Lumpur (UniKL) where they begin the course conducted entirely in French. <br>
+	The subjects studied are :
+					<br><br><img src="../../cover/matieres.jpg" alt="matieres">
+					<br><br>By the second semester, the students have to choose their field of speciality which determines the IUT in which they will enroll.</p>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Pique-nique &agrave; carras</strong></h2>
-				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.
-				<br>
-				<a href="Piquenique-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				<h2><strong>3. Bridging Programme <br>(intensive FLE course)</strong></h2>
+				<p>The 4-month integration program is called "Bridging Program". From mid-April 
+	to late August, the students are divided into 4 groups in different IUT 
+	according to their speciality for an integration period during which 
+	they are staying with host families and in university residence. <br><br>
+	The French language courses take place at Alliance Fran&ccedil;aise and are 
+	scheduled as follows: <br><br>
+	-May: 4 hours of lesson in the morning (8:00 to 12:00).<br>
+	-June: 3 hours of lesson in the morning (8:00 to 11:00) and followed by
+	classes at the IUT in the afternoon.<br>
+	-July: same schedule as of June for the first two weeks. For the following two 
+	weeks, 4 hours of lesson at Alliance Fran&ccedil;aise from 13:00 to 17:00.
+	-August: lessons at Alliance Fran&ccedil;aise (13:00 to 17:00).<br><br>
+	
+	During the first two months at Alliance Fran&ccedil;aise, the students are mixed with other foreign students, and seperated into groups 
+	according to their level of French language (B1/B2). While during the last 
+	two months, the Malaysian students are rejoined into two groups to prepare  
+	for the TCF (Test Knowledge of French) which takes place in late August.<br><br>
+	
+	During the last week at the IUT, the Malaysian students sit for small tests on the subjects 
+	studied (maths, physics, and computer networking).
+	<br><br>
+    				<strong>Photos of Alliance FranÃ§aise :</strong><br>
+						<ul>
+							<li><img src="../../cover/alliancef1.PNG" alt="AF" class="imgL"/></li>
+    						<li><img src="../../cover/alliancef2.PNG" alt="AF" class="imgR"/></li>
+    						<li><img src="../../cover/alliancef3.PNG" alt="AF" class="imgL"/></li>
+    						<li><img src="../../cover/alliancef4.PNG" alt="AF" class="imgR"/></li>
+    					</ul>
+    				<br>
     			</p>
 			</div>
 			
@@ -118,9 +147,9 @@ $(window).scroll(function(){
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
-			<h2>Liens Externes</h2>
+			<h2>External links</h2>
 				<ul class="style2">
-					<li><strong>IUT Nice Côte d’azur</strong><br/>
+					<li><strong>IUT Nice CÃ´te dâ€™azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
 						650, Route des Colles, 06560 Valbonne<br/>
 						Adresse &eacute;lectronique : rt@iutsoph.unice.fr<br/>

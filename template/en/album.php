@@ -10,8 +10,8 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-<link href="style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="../fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -19,12 +19,12 @@
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
-				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='index.php' accesskey='1' title=''>HOME</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
+				<li><a href='#' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
 				<li class='current_page_item'><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
@@ -34,8 +34,8 @@
 			<span></span> </div>
 	</div>
 	<div id="traduit">
-			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/album.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="../album.php"><img src="../../cover/french.jpg" alt="francais"></a>
+			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
@@ -118,7 +118,7 @@ $(window).scroll(function(){
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
-			<h2>Liens Externes</h2>
+			<h2>External links</h2>
 				<ul class="style2">
 					<li><strong>IUT Nice Côte d’azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
