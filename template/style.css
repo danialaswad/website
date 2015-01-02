@@ -918,20 +918,20 @@
 /* Topic                                                                       */
 /*********************************************************************************/
 
- #sub-topic
- {
- 	text-align: center;
- 	margin-right: 10em;
- }
- .topic 
- {	
- 	margin-bottom: 2em;
- 	text-decoration: none;
- 	display: inline-block;
+ 	#sub-topic
+ 	{
+ 		text-align: center;
+ 		margin-right: 10em;
+ 	}
+ 	.topic 
+ 	{	
+ 		margin-bottom: 2em;
+ 		text-decoration: none;
+ 		display: inline-block;
 
- }
- .topic h2 
- {
+ 	}
+ 	.topic h2 
+ 	{
  		padding: 0 2em;
 		letter-spacing: 0.10em;
 		text-transform: uppercase;
@@ -939,18 +939,29 @@
 		font-size: 1.5em;
 		color: #fff;
 		background-color: #000;
- } 
- .topic h2:hover 
- {
- 		color: #6699FF;
- }
+ 	} 
+
+/*********************************************************************************/
+/* Topic  menu                                                                     */
+/*********************************************************************************/
+
+	.menu_secondaire{
+		display: none;
+	}
 
 
+/*********************************************************************************/
+/* table                                                                    */
+/*********************************************************************************/
 
+	table 
+	{
+    	border: 1px solid black;
+	} 
 
-
-
-
-
+	td 
+	{
+   		border: 1px solid black;
+	}
 
 

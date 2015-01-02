@@ -49,8 +49,8 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="#" class="topic"><h2>IUT</h2></a>
-		<a href="activite.php" class="topic"><h2>ACTIVITIES</h2></a>
+		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
+		<a href="#" class="topic"><h2>ACTIVITIES</h2></a>
 		<ul class='menu_secondaire'>
 					<li><a href=''></a></li>
 					<li><a href=''></a></li>
@@ -59,50 +59,31 @@
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Classes at the IUT</strong></h2>
-				<p>
-					<ul>
-						<li><img src="../../cover/salleiut1.jpg" alt="salle" class="classeR"/></li>
-    					<li><img src="../../cover/salleiut2.jpg" alt="salle1" class="classe"/></li>
-    					<li><img src="../../cover/salleiut3.jpg" alt="salle2" class="classeR"/></li>
-    					<li><img src="../../cover/salleiut4.jpg" alt="salle3" class="classe"/></li>
-    				</ul>
-    			</br>
+				<h2><strong>Integration Activities</strong></h2>
+				<p>With the IUT professor, we occasionally did recreational activities to facilitate our integration in France, to discover France and its unique culture and also to improve the Franco-Malaysian solidarity between us, the Malaysians living in France and the staff of the IUT.
     			</p>
 			</div>
 
 			<div class="post"><span class="date"></span>
-				<h2><strong>Environment</strong></h2>
-				<p>The R&amp;T department is situated in the urban area of Sophia Antipolis in Valbonne. Located near the department is the new Saint-Philippe neighbourhood, where we can find various shops including a supermarket name Casino. It is possible to walk there from the department. 	
-					<br><br><img src="../../cover/VieEtudiant.jpg" alt="casino sophia">  <img src="../../cover/VieEtudiant2.jpg" alt="l'entree de l'iut">
+				<h2><strong>MARINELAND</strong></h2>
+				<p><img class="marine-banner" src="../../cover/Marineland-Antibes.png" alt="marineland"><br><br>
+		Organised and led by six employees of the IUT of Nice Sophia Antipolis, this tour is part of the Malaysian Immersion program, an initiative aimed particularly for the newcomers to get to know the teachers and the staff aims to IUT with whom we work regularly soon.
+		<br>
+		You can access the Marineland website by clicking <a href="https://www.marineland.fr/" target="_blank">here</a>, or have view at the <a href="../Marineland-Viewer/Index.html" target="_blank">pictures</a> of our trip .
 				</p>
 			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Getting to the IUT</strong></h2>
-				<p>As regards us, the Malaysian students, the best means of transport is probably by bus. The Envibus bus network and the Azur bus network allow us to circulate in Valbonne and also the surrounding towns (Antibes and Nice) without having any difficulty.
-	<br><br>
-	<strong>Travelling by bus from Nice</strong><br>
-	&diams;&nbsp; &nbsp;You can find more information on the <a href="http://www.cg06.fr/fr/servir-les-habitants/deplacements/transport-collectifs/transports-collectifs/" target="_blank">General Council’s</a> website. We also have the opportunity to enjoy carpooling, which is the transit most used by students.
-	 <br><br>
-	 <strong>Travelling in Valbonne and Antibes</strong><br>
-	 The Envibus bus network is fairly widespread, facilitates the circulation in Antibes and surroundings.<br>
-	 &diams; &nbsp; &nbsp; For more information, visit the <a href="http://www.envibus.fr/">Envibus's</a> website.
+				<h2><strong>Horse Riding</strong></h2>
+				<p><img class="cheval-banner" src="../../cover/sortiecheval.jpg" alt="marineland"><br><br>
+		Organised and led by six employees of the IUT of Nice Sophia Antipolis, this tour is also part of Malaysian Immersion program. 
+		<br>You can view pictures of our output <a href="../SortieCheval-Viewer/Index.html" target="_blank">here</a>.
 				</p>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Accommodation</strong></h2>
-				<p>There are many student residences which are suitable for the R&amp;T student :<br><br>
-	1. &nbsp; &nbsp;<strong>R&eacute;sidence Les Dolines (r&eacute;sidence universitaire CROUS)</strong><br>
-	&diams;&nbsp; &nbsp;Contact : Tel : 04 92 96 90 37 - Fax 04 92 96 90 22 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
-	&diams;&nbsp; &nbsp;Located in Valbonne, 2225 route des dolines - A living place where you will find all the shops in walking distance, this property offers 222 studios furnished (kitchen, toilet, bathroom) Gym, Free TV, coin-operated laundry, paid underground parking. Lease entitles housing benefits.<br><br>
-	2. &nbsp; &nbsp;<strong>R&eacute;sidence Newton (r&eacute;sidence universitaire CROUS)</strong><br>
-	&diams;&nbsp; &nbsp;Contact : Tel :04 93 34 87 90 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
-	&diams;&nbsp; &nbsp;Located in Valbonne, 2400 route des Dolines (06560).<br><br>
-	3. &nbsp; &nbsp;<strong>R&eacute;sidence Jean Medicin (r&eacute;sidence universitaire CROUS)</strong><br>
-	<img src="../../cover/jean-medecin.jpg" alt="Photo résidence Jean médecin" class="res-pic"> <br>
-	&diams;&nbsp; &nbsp;Contact : Tel :04 92 29 46 46 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
-	&diams;&nbsp; &nbsp;Located in Nice, 25 rue Robert Latouche (06200)<br><br>
-	It is also possible to live in an apartment shared with other students or individually in the neighbouring town. The most recommended towns are Antibes and Nice.
+				<h2><strong>PICNIC AT CARRAS</strong></h2>
+				<p><img class="cheval-banner" src="../../cover/carras.jpg" alt="marineland"><br><br>
+		On June 20, a small picnic was held by both iut R&amp;T and GEII at Carras beach to welcome the new students PF11.<br>
+		You can view pictures of our output <a href="../Piquenique-Viewer/Index.html" target="_blank">here</a>.
     			</p>
 			</div>
 			

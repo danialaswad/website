@@ -49,60 +49,121 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="#" class="topic"><h2>IUT</h2></a>
+		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
 		<a href="activite.php" class="topic"><h2>ACTIVITIES</h2></a>
 		<ul class='menu_secondaire'>
 					<li><a href=''></a></li>
 					<li><a href=''></a></li>
 				</ul>
-		<a href="etudesup.php" class="topic"><h2>FURTHER STUDIES</h2></a>
+		<a href="#" class="topic"><h2>FURTHER STUDIES</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Classes at the IUT</strong></h2>
-				<p>
-					<ul>
-						<li><img src="../../cover/salleiut1.jpg" alt="salle" class="classeR"/></li>
-    					<li><img src="../../cover/salleiut2.jpg" alt="salle1" class="classe"/></li>
-    					<li><img src="../../cover/salleiut3.jpg" alt="salle2" class="classeR"/></li>
-    					<li><img src="../../cover/salleiut4.jpg" alt="salle3" class="classe"/></li>
-    				</ul>
-    			</br>
+				<h2><strong></strong></h2>
+				<p>During the fourth semester, the students submit certain documents to further their studies. The constitution of these documents will be managed in part by the Director of Studies, 
+	Mr Frédéric Payan who is also a professor of telecommunications, and the Head of Departement, Mdm Claire Oberli, who will attach the transcripts of the students' grades, recommandations, etc, with the documents before sending them.
     			</p>
 			</div>
 
-			<div class="post"><span class="date"></span>
-				<h2><strong>Environment</strong></h2>
-				<p>The R&amp;T department is situated in the urban area of Sophia Antipolis in Valbonne. Located near the department is the new Saint-Philippe neighbourhood, where we can find various shops including a supermarket name Casino. It is possible to walk there from the department. 	
-					<br><br><img src="../../cover/VieEtudiant.jpg" alt="casino sophia">  <img src="../../cover/VieEtudiant2.jpg" alt="l'entree de l'iut">
-				</p>
-			</div>
-			<div class="post"> <span class="date"></span>
-				<h2><strong>Getting to the IUT</strong></h2>
-				<p>As regards us, the Malaysian students, the best means of transport is probably by bus. The Envibus bus network and the Azur bus network allow us to circulate in Valbonne and also the surrounding towns (Antibes and Nice) without having any difficulty.
-	<br><br>
-	<strong>Travelling by bus from Nice</strong><br>
-	&diams;&nbsp; &nbsp;You can find more information on the <a href="http://www.cg06.fr/fr/servir-les-habitants/deplacements/transport-collectifs/transports-collectifs/" target="_blank">General Council’s</a> website. We also have the opportunity to enjoy carpooling, which is the transit most used by students.
-	 <br><br>
-	 <strong>Travelling in Valbonne and Antibes</strong><br>
-	 The Envibus bus network is fairly widespread, facilitates the circulation in Antibes and surroundings.<br>
-	 &diams; &nbsp; &nbsp; For more information, visit the <a href="http://www.envibus.fr/">Envibus's</a> website.
-				</p>
-			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Accommodation</strong></h2>
-				<p>There are many student residences which are suitable for the R&amp;T student :<br><br>
-	1. &nbsp; &nbsp;<strong>R&eacute;sidence Les Dolines (r&eacute;sidence universitaire CROUS)</strong><br>
-	&diams;&nbsp; &nbsp;Contact : Tel : 04 92 96 90 37 - Fax 04 92 96 90 22 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
-	&diams;&nbsp; &nbsp;Located in Valbonne, 2225 route des dolines - A living place where you will find all the shops in walking distance, this property offers 222 studios furnished (kitchen, toilet, bathroom) Gym, Free TV, coin-operated laundry, paid underground parking. Lease entitles housing benefits.<br><br>
-	2. &nbsp; &nbsp;<strong>R&eacute;sidence Newton (r&eacute;sidence universitaire CROUS)</strong><br>
-	&diams;&nbsp; &nbsp;Contact : Tel :04 93 34 87 90 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
-	&diams;&nbsp; &nbsp;Located in Valbonne, 2400 route des Dolines (06560).<br><br>
-	3. &nbsp; &nbsp;<strong>R&eacute;sidence Jean Medicin (r&eacute;sidence universitaire CROUS)</strong><br>
-	<img src="../../cover/jean-medecin.jpg" alt="Photo résidence Jean médecin" class="res-pic"> <br>
-	&diams;&nbsp; &nbsp;Contact : Tel :04 92 29 46 46 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
-	&diams;&nbsp; &nbsp;Located in Nice, 25 rue Robert Latouche (06200)<br><br>
-	It is also possible to live in an apartment shared with other students or individually in the neighbouring town. The most recommended towns are Antibes and Nice.
+				<h2><strong>Institutions of higher education</strong></h2>
+				<p><table>
+	<tr>
+		<td colspan="2">Provenance des étudiants</td>
+		<td>Institutions</td>		
+		<td>Degree</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://unice.fr/sciences" target="_blank" >UFR Nice</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://rt.unice.fr/RT/" target="_blank" >IUT de Nice Sophia Antipolis</a></td>
+			<td>LP</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.polytechnice.fr/" target="_blank" >Polytech Nice</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="https://www.polytech.upmc.fr/" target="_blank" >Polytech Paris</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.polytech-montpellier.fr/" target="_blank" >Polytech Mtpl</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.polytech-lille.fr/ecole-d-ingenieurs.html#.U6Limttb9B0" target="_blank" >Polytech Lille</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://esirem.u-bourgogne.fr/" target="_blank" >ESIREM</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.enseeiht.fr/en/index.html" target="_blank" >ENSEEIHT</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.utbm.fr/" target="_blank" >UTBM</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.univ-lyon1.fr/" target="_blank" >UFR LYON 1</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.insa-lyon.fr/en" target="_blank" >INSA Lyon</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.univ-fcomte.fr/" target="_blank" >UFC Besançon</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.ensil.unilim.fr/W3/index.php" target="_blank" >ENSI Limoges</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://isitv.univ-tln.fr/" target="_blank" >ISITV</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.grenoble-inp.fr/" target="_blank" >INP Grenoble</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+	</table>
     			</p>
 			</div>
 			
