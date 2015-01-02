@@ -355,7 +355,7 @@
 
 	.title
 	{
-		margin-bottom: 3em;
+		margin-bottom: 1em;
 	}
 	
 	.title h2
@@ -557,7 +557,7 @@
 	#welcome
 	{
 		overflow: hidden;
-		padding: 4em 0em;
+		padding: 1em 0em;
 		text-align: center;
 		color: rgba(255,255,255,0.3);
 	}
