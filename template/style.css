@@ -896,3 +896,61 @@
 		width:30px;
 		height:20px;
 	}
+
+/*********************************************************************************/
+/* classes                                                                       */
+/*********************************************************************************/
+
+	.classeR 
+	{
+
+		float: right;
+		width:300px;
+		height:200px;
+	}
+
+	.classe
+	{
+		width:300px;
+		height:200px;
+	}
+/*********************************************************************************/
+/* Topic                                                                       */
+/*********************************************************************************/
+
+ #sub-topic
+ {
+ 	text-align: center;
+ 	margin-right: 10em;
+ }
+ .topic 
+ {	
+ 	margin-bottom: 2em;
+ 	text-decoration: none;
+ 	display: inline-block;
+
+ }
+ .topic h2 
+ {
+ 		padding: 0 2em;
+		letter-spacing: 0.10em;
+		text-transform: uppercase;
+		font-weight: 400;
+		font-size: 1.5em;
+		color: #fff;
+		background-color: #000;
+ } 
+ .topic h2:hover 
+ {
+ 		color: #6699FF;
+ }
+
+
+
+
+
+
+
+
+
+

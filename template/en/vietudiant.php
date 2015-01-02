@@ -22,8 +22,8 @@
 				<li><a href='index.php' accesskey='1' title=''>HOME</a></li>
 				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
-				<li class='current_page_item'><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='vietudiant.php' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
+				<li class='current_page_item'><a href='vietudiant.php' accesskey='5' title=''>STUDENT LIFE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
@@ -34,70 +34,71 @@
 			<span></span> </div>
 	</div>
 	<div id="traduit">
-			<a href="../campusfrance.php"><img src="../../cover/french.jpg" alt="francais"></a>
+			<a href="../vietudiant.php"><img src="../../cover/french.jpg" alt="francais"></a>
 			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Campus France</h2>
-			<br>		
-			<a href="http://www.malaisie.campusfrance.org/en/" target="_blank"><img src="../images/campusfrancelogo.jpg" alt="ronde des facs" class="marine-banner"/></a>
+			<h2>Student Life</h2>		
 		</div>
 	</div>
 </div>
 <div id="wrapper3">
+	
 	<div id="wrapper-blog" class="container">
+		<div id="sub-topic">
+		<a href="#" class="topic"><h2>IUT</h2></a>
+		<a href="" class="topic"><h2>ACTIVITIES</h2></a>
+		<a href="" class="topic"><h2>FURTHER STUDIES</h2></a>
+	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>1. Learning the french language</strong></h2>
-				<p>To study in France, the "intermediate advanced" level (B1, B2) is 
-		usually sufficient and to register in the first or second year at french 
-		universities, foreign candidates (non-European) must follow the procedure of 
-		"Requesting Admission Prerequisites "(DAP). In this context, 
-		they must prove their French language proficiency level by taking a test. 
-		As far as the Malaysian students are concerned, the french language is taught at University of Kuala Lumpur 
-		in Malaysia and at a language school in Nice, France.<br><br>
-		Warning: ignorance of the French language is the primary cause of failure of foreign students.</p>
-			</div>
-			<div class="post"> <span class="date"></span>
-				<h2><strong>2. Enrolling at the IUT</strong></h2>
-				<p>Campus France manage everything related to the admission to the IUT. There are only a few forms to be completed.</p>
+				<h2><strong>Classes at the IUT</strong></h2>
+				<p>
+					<ul>
+						<li><img src="../../cover/salleiut1.jpg" alt="salle" class="classeR"/></li>
+    					<li><img src="../../cover/salleiut2.jpg" alt="salle1" class="classe"/></li>
+    					<li><img src="../../cover/salleiut3.jpg" alt="salle2" class="classeR"/></li>
+    					<li><img src="../../cover/salleiut4.jpg" alt="salle3" class="classe"/></li>
+    				</ul>
+    			</br>
+    			</p>
 			</div>
 
+			<div class="post"><span class="date"></span>
+				<h2><strong>Environment</strong></h2>
+				<p>The R&amp;T department is situated in the urban area of Sophia Antipolis in Valbonne. Located near the department is the new Saint-Philippe neighbourhood, where we can find various shops including a supermarket name Casino. It is possible to walk there from the department. 	
+					<br><br><img src="../../cover/VieEtudiant.jpg" alt="casino sophia">  <img src="../../cover/VieEtudiant2.jpg" alt="l'entree de l'iut">
+				</p>
+			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong>3. Obtaining the visa</strong></h2>
-				<p>It is very important, upon arrival in France, to send to OFII by registered mail (with confirmation of receipt):
-	- the stamped OFII certification form that they received from the official who granted their visa<br>
-	- a copy of the pages of their passport bearing their identity data and the stamp signifying entry into France or another country of the Schengen Area.
+				<h2><strong>Getting to the IUT</strong></h2>
+				<p>As regards us, the Malaysian students, the best means of transport is probably by bus. The Envibus bus network and the Azur bus network allow us to circulate in Valbonne and also the surrounding towns (Antibes and Nice) without having any difficulty.
 	<br><br>
-	Upon receipt of these documents, the OFII will send, by regular mail to the address provided by the visa holder, a letter acknowledging receipt of the form and summoning the applicant for a 
-	medical visit (if such a visit was not carried out in the applicant’s home country) or an orientation session.<br>
+	<strong>Travelling by bus from Nice</strong><br>
+	&diams;&nbsp; &nbsp;You can find more information on the <a href="http://www.cg06.fr/fr/servir-les-habitants/deplacements/transport-collectifs/transports-collectifs/" target="_blank">General Council’s</a> website. We also have the opportunity to enjoy carpooling, which is the transit most used by students.
+	 <br><br>
+	 <strong>Travelling in Valbonne and Antibes</strong><br>
+	 The Envibus bus network is fairly widespread, facilitates the circulation in Antibes and surroundings.<br>
+	 &diams; &nbsp; &nbsp; For more information, visit the <a href="http://www.envibus.fr/">Envibus's</a> website.
+				</p>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>4. Taking care of yourself</strong></h2>
-				<p>French health-care coverage, provided under the social security system ("Sécurité sociale"), is of very high quality. Covered individuals are reimbursed for a portion of their medical expenses 
-	in return for a low basic payment. For students, that payment reaches €211 in 2013/2014 (1). You join the plan at your higher education institution when you register for classes at the beginning 
-	of the academic year. Participation in the plan is mandatory for non-European students. 
-<br><br>
-Students from countries in the European Economic Space are exempted from participation as long as they hold either a European health insurance card (or temporary certificate) valid for the entire 
-academic year or a certificate of private insurance providing full coverage for medical risks without restrictions related to cost. 
-<br><br>
-The two main student group health plans are:
-<br><br>
-&diams;  &nbsp; &nbsp;LMDE (La Mutuelle des Étudiants)<br>
-&diams;  &nbsp; &nbsp;emVia, which groups 11 regional student "mutuelles"
-<br><br>
-To benefit from the national student health-care system, students must be under 28 years of age and registered in a program for at least 4 months in an approved institution of higher education. 
-	<br><br>
-	
-	<em>For further information, visit the Campus France website by clicking <a href="http://www.malaisie.campusfrance.org/en/" target="_blank">here</a>.</em>
-	<br><br>
-	<strong>Representative from Campus France at IUT de Nice Sophia Antipolis</strong><br>
-	Mme CAMPION Françoise<br>
-	Francoise.Campion@campusfrance.org
-	<br>
+				<h2><strong>Accommodation</strong></h2>
+				<p>There are many student residences which are suitable for the R&amp;T student :<br><br>
+	1. &nbsp; &nbsp;<strong>R&eacute;sidence Les Dolines (r&eacute;sidence universitaire CROUS)</strong><br>
+	&diams;&nbsp; &nbsp;Contact : Tel : 04 92 96 90 37 - Fax 04 92 96 90 22 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
+	&diams;&nbsp; &nbsp;Located in Valbonne, 2225 route des dolines - A living place where you will find all the shops in walking distance, this property offers 222 studios furnished (kitchen, toilet, bathroom) Gym, Free TV, coin-operated laundry, paid underground parking. Lease entitles housing benefits.<br><br>
+	2. &nbsp; &nbsp;<strong>R&eacute;sidence Newton (r&eacute;sidence universitaire CROUS)</strong><br>
+	&diams;&nbsp; &nbsp;Contact : Tel :04 93 34 87 90 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
+	&diams;&nbsp; &nbsp;Located in Valbonne, 2400 route des Dolines (06560).<br><br>
+	3. &nbsp; &nbsp;<strong>R&eacute;sidence Jean Medicin (r&eacute;sidence universitaire CROUS)</strong><br>
+	<img src="../../cover/jean-medecin.jpg" alt="Photo résidence Jean médecin" class="res-pic"> <br>
+	&diams;&nbsp; &nbsp;Contact : Tel :04 92 29 46 46 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
+	&diams;&nbsp; &nbsp;Located in Nice, 25 rue Robert Latouche (06200)<br><br>
+	It is also possible to live in an apartment shared with other students or individually in the neighbouring town. The most recommended towns are Antibes and Nice.
     			</p>
 			</div>
 			
@@ -136,7 +137,7 @@ $('#theFixed').click(function(){
     $(window).scrollTop(0);
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<2600) {
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
         isVisible = true;
         $('#theFixed').show();
     }

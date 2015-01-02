@@ -23,7 +23,7 @@
 				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='vietudiant.php' accesskey='5' title=''>STUDENT LIFE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>

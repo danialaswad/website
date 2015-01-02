@@ -23,7 +23,7 @@
 				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='vietudiant.php' accesskey='5' title=''>STUDENT LIFE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
 				<li class='current_page_item'><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
@@ -49,23 +49,23 @@
 	<div id="wrapper-blog" class="container">
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Sortie &agrave; Marineland</strong></h2>
-				<p>Le 17 juin 2013, nous avons fait une excursion avec les autres &eacute;tudiants malaisiens de l'IUT GEII &agrave; Marineland.<br/> 
-	<a href="Marineland-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				<h2><strong>Marineland</strong></h2>
+				<p>On 17 June 2013, we made an excursion together with the Malaysian students of IUT GEII to Marineland.<br/> 
+	<a href="../Marineland-Viewer/Index.html" target="_blank">Click here to view the photos</a>
 				</p>
 			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Sortie cheval</strong></h2>
-				<p>Le 16 novembre 2013, nous sommes all&eacute;s &agrave; Sainte Agn&egrave;s pr&egrave;s de Menton pour faire du cheval.
+				<h2><strong>Horse Riding</strong></h2>
+				<p>On November 16, 2013, we went to St. Agnes near Menton for horse riding.
 				<br>
-				<a href="SortieCheval-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				<a href="../SortieCheval-Viewer/Index.html" target="_blank">Click here to view the photos</a>
 				</p>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Pique-nique &agrave; carras</strong></h2>
-				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.
+				<h2><strong>Picnic at Carras</strong></h2>
+				<p>On June 20, a small picnic was held by both iut R&amp;T and GEII at Carras beach to welcome the new students PF11. 
 				<br>
-				<a href="Piquenique-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				<a href="../Piquenique-Viewer/Index.html" target="_blank">Click here to view the photos</a>
     			</p>
 			</div>
 			
