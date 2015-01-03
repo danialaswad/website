@@ -49,17 +49,13 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
-		<a href="#" class="topic"><h2>ACTIVIT&Eacute;S</h2></a>
-		<ul class='menu_secondaire'>
-					<li><a href=''></a></li>
-					<li><a href=''></a></li>
-				</ul>
-		<a href="etudesup.php" class="topic"><h2>POURSUITES D'&Eacute;TUDES</h2></a>
+		<a href="vietudiant.php#welcome" class="topic"><h2>IUT</h2></a>
+		<a href="#welcome" class="topic"><h2>ACTIVIT&Eacute;S</h2></a>
+		<a href="etudesup.php#welcome" class="topic"><h2>&Eacute;V&Egrave;NEMENTS</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Integration Activities</strong></h2>
+				<h2><strong>Activit&eacute; d'int&eacute;gration</strong></h2>
 				<p>Avec les responsables de l'IUT, nous faisons de temps en temps des activités récréatives afin de faciliter notre integration en France, de découvrir la France et sa culture unique et aussi de renforcer, en général, la solidarité franco-malaisienne entre nous, les Malaisiens vivant en France et les personnels de l'IUT.
     			</p>
 			</div>

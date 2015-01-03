@@ -49,9 +49,9 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="#" class="topic"><h2>IUT</h2></a>
-		<a href="activite.php" class="topic"><h2>ACTIVIT&Eacute;S</h2></a>
-		<a href="etudesup.php" class="topic"><h2>POURSUITES D'&Eacute;TUDES</h2></a>
+		<a href="#welcome" class="topic"><h2>IUT</h2></a>
+		<a href="activite.php#welcome" class="topic"><h2>ACTIVIT&Eacute;S</h2></a>
+		<a href="etudesup.php#welcome" class="topic"><h2>&Eacute;V&Egrave;NEMENTS</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>

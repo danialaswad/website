@@ -49,13 +49,9 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
-		<a href="#" class="topic"><h2>ACTIVITIES</h2></a>
-		<ul class='menu_secondaire'>
-					<li><a href=''></a></li>
-					<li><a href=''></a></li>
-				</ul>
-		<a href="etudesup.php" class="topic"><h2>FURTHER STUDIES</h2></a>
+		<a href="vietudiant.php#welcome" class="topic"><h2>IUT</h2></a>
+		<a href="#welcome" class="topic"><h2>ACTIVITIES</h2></a>
+		<a href="etudesup.php#welcome" class="topic"><h2>EVENTS</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>

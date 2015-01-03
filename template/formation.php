@@ -47,7 +47,7 @@
 <div id="wrapper3">
 	<div id="wrapper-blog" >
 		<div id="post">
-			<div class="post no-border"> <span class="date"></span>
+			<div class="post"> <span class="date"></span>
 				<h2><strong>Les Formations R&amp;T &aacute; Sophia Antipolis</strong></h2>
 				<p>
 					Toutes les informations ci-dessous sont extraites du site officiel du département. Pour en savoir plus, vous pouvez y accéder directement en cliquant <a href="http://rt.unice.fr/RT/index.php" target="_blank">ici</a>.
@@ -75,6 +75,115 @@
 	Comme pour la  sp&eacute;cialit&eacute; RSFS, cette formation d'un an est une excellente opportunit&eacute; 
 	 pour int&eacute;grer la vie active au bout de 3 ans d'&eacute;tudes. 
 	Cette  formation peut se faire en formation initiale ou en alternance.</p>
+			</div>
+			<div class="post"><span class="date"></span>
+				<h2><strong>POURSUITES D'&Eacute;TUDES</strong></h2>
+				<p>Durant le semestre 4, les étudiants effectuent des dossiers de candidature pour une poursuite d'études. La constitution de ces dossiers sera gérée en partie par le directeur d’études, monsieur Frédéric Payan qui est aussi professeur de télécommunications. Le chef de département et professeur de mathématiques, madame Claire Oberli,
+				devra ajouter des relevés de notes, des avis de poursuite d’études... dans les dossiers avant de les envoyer.
+    			</p>
+			</div>
+
+			<div class="post no-border"> <span class="date"></span>
+				<h2><strong>Etablissements de poursuites d'etudes</strong></h2>
+				<p>Ce sont des étudiants malaisiens qui, après avoir eu leurs diplômes, ont intégré ces établissements.
+				<table>
+	<tr>
+		<td colspan="2">Provenance des étudiants</td>
+		<td>Etablissements de PE</td>		
+		<td>Diplômes</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://unice.fr/sciences" target="_blank" >UFR Nice</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://rt.unice.fr/RT/" target="_blank" >IUT de Nice Sophia Antipolis</a></td>
+			<td>LP</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.polytechnice.fr/" target="_blank" >Polytech Nice</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="https://www.polytech.upmc.fr/" target="_blank" >Polytech Paris</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.polytech-montpellier.fr/" target="_blank" >Polytech Mtpl</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.polytech-lille.fr/ecole-d-ingenieurs.html#.U6Limttb9B0" target="_blank" >Polytech Lille</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://esirem.u-bourgogne.fr/" target="_blank" >ESIREM</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.enseeiht.fr/en/index.html" target="_blank" >ENSEEIHT</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.utbm.fr/" target="_blank" >UTBM</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.univ-lyon1.fr/" target="_blank" >UFR LYON 1</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.insa-lyon.fr/en" target="_blank" >INSA Lyon</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.univ-fcomte.fr/" target="_blank" >UFC Besançon</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.ensil.unilim.fr/W3/index.php" target="_blank" >ENSI Limoges</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://isitv.univ-tln.fr/" target="_blank" >ISITV</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.grenoble-inp.fr/" target="_blank" >INP Grenoble</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+	</table>
+    			</p>
 			</div>
 			
 		</div>

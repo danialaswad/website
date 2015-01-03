@@ -49,13 +49,9 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="#" class="topic"><h2>IUT</h2></a>
-		<a href="activite.php" class="topic"><h2>ACTIVITIES</h2></a>
-		<ul class='menu_secondaire'>
-					<li><a href=''></a></li>
-					<li><a href=''></a></li>
-				</ul>
-		<a href="etudesup.php" class="topic"><h2>FURTHER STUDIES</h2></a>
+		<a href="#welcome" class="topic"><h2>IUT</h2></a>
+		<a href="activite.php#welcome" class="topic"><h2>ACTIVITIES</h2></a>
+		<a href="etudesup.php#welcome" class="topic"><h2>EVENTS</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
@@ -96,6 +92,7 @@
 	&diams;&nbsp; &nbsp;Contact : Tel : 04 92 96 90 37 - Fax 04 92 96 90 22 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
 	&diams;&nbsp; &nbsp;Located in Valbonne, 2225 route des dolines - A living place where you will find all the shops in walking distance, this property offers 222 studios furnished (kitchen, toilet, bathroom) Gym, Free TV, coin-operated laundry, paid underground parking. Lease entitles housing benefits.<br><br>
 	2. &nbsp; &nbsp;<strong>R&eacute;sidence Newton (r&eacute;sidence universitaire CROUS)</strong><br>
+	<img src="../../cover/newton.jpg" alt="Photo résidence Jean médecin" class="res-pic"><br>
 	&diams;&nbsp; &nbsp;Contact : Tel :04 93 34 87 90 - Website : <a href="http://www.crous-nice.fr/logement2.php" target="_blank">www.crous-nice.fr</a>.<br>
 	&diams;&nbsp; &nbsp;Located in Valbonne, 2400 route des Dolines (06560).<br><br>
 	3. &nbsp; &nbsp;<strong>R&eacute;sidence Jean Medicin (r&eacute;sidence universitaire CROUS)</strong><br>

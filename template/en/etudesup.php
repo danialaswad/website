@@ -49,122 +49,54 @@
 	
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
-		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
-		<a href="activite.php" class="topic"><h2>ACTIVITIES</h2></a>
-		<ul class='menu_secondaire'>
-					<li><a href=''></a></li>
-					<li><a href=''></a></li>
-				</ul>
-		<a href="#" class="topic"><h2>FURTHER STUDIES</h2></a>
+		<a href="vietudiant.php#welcome" class="topic"><h2>IUT</h2></a>
+		<a href="activite.php#welcome" class="topic"><h2>ACTIVITIES</h2></a>
+		<a href="#welcome" class="topic"><h2>EVENTS</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong></strong></h2>
-				<p>During the fourth semester, the students submit certain documents to further their studies. The constitution of these documents will be managed in part by the Director of Studies, 
-	Mr Frédéric Payan who is also a professor of telecommunications, and the Head of Departement, Mdm Claire Oberli, who will attach the transcripts of the students' grades, recommandations, etc, with the documents before sending them.
-    			</p>
+				<h2><strong>Ronde des Facs</strong></h2>
+				<p><a href="https://www.facebook.com/media/set/?set=a.738152952869737.1073741830.140309012654137&amp;type=3" target="blank"></a><img src="../../cover/rdf2014.jpg" alt="ronde des facs" class="act-image"/>
+			<br><br>
+		On Thursday, March 20, 2014 the Round of Facs took place on the Promenade des Anglais, a major event in the life of the UNS community. It is a 3.5 km course starting from Ferber to the Théâtre de Verdure with each student bearing the colour of their department :
+		<br><br>
+		<strong>JAUNE</strong> : Sciences<br>
+		<strong>ROUGE</strong> : P&ocirc;le Sant&eacute; &amp; STAPS (registration in all sports offices)<br>
+		<strong>ORANGE</strong> : Lettres, Arts et Sciences Humaines<br>
+		<strong>BLEU</strong> : Droit - Sciences Politiques<br>
+		<strong>VIOLET</strong> : ISEM - IAE<br>
+		<strong>VERT</strong> : IUT - Polytech <br>
+		<br>
+		The program of the day was to get together at noon in Ferber, to collect  a package (t-shirt, chip and sticker with a participation number). The start of the race was scheduled at 14h and the walk at 14:05. But before departing, a Zumba dance lead by a sports teachers from Valrose campus, is held for warming up session. And at the arrival, breathless students were given foods and drinks, before a ceremony composed of different choreographies of different dance styles took place.<br>
+	 	</br><a href="http://vimeo.com/90394431" target="_blank">Click here to view the video</a>.</p>
 			</div>
 
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>Institutions of higher education</strong></h2>
-				<p><table>
-	<tr>
-		<td colspan="2">Provenance des étudiants</td>
-		<td>Institutions</td>		
-		<td>Degree</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://unice.fr/sciences" target="_blank" >UFR Nice</a></td>
-			<td>L3/M1/M2</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://rt.unice.fr/RT/" target="_blank" >IUT de Nice Sophia Antipolis</a></td>
-			<td>LP</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://www.polytechnice.fr/" target="_blank" >Polytech Nice</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td></td>		
-			<td><a href="https://www.polytech.upmc.fr/" target="_blank" >Polytech Paris</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td></td>		
-			<td><a href="http://www.polytech-montpellier.fr/" target="_blank" >Polytech Mtpl</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://www.polytech-lille.fr/ecole-d-ingenieurs.html#.U6Limttb9B0" target="_blank" >Polytech Lille</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td></td>		
-			<td><a href="http://esirem.u-bourgogne.fr/" target="_blank" >ESIREM</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td></td>		
-			<td><a href="http://www.enseeiht.fr/en/index.html" target="_blank" >ENSEEIHT</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td></td>		
-			<td><a href="http://www.utbm.fr/" target="_blank" >UTBM</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://www.univ-lyon1.fr/" target="_blank" >UFR LYON 1</a></td>
-			<td>L3/M1/M2</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td></td>		
-			<td><a href="http://www.insa-lyon.fr/en" target="_blank" >INSA Lyon</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://www.univ-fcomte.fr/" target="_blank" >UFC Besançon</a></td>
-			<td>L3/M1/M2</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://www.ensil.unilim.fr/W3/index.php" target="_blank" >ENSI Limoges</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://isitv.univ-tln.fr/" target="_blank" >ISITV</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-		<tr>
-			<td>Nice GEII</td>
-			<td>Nice R&amp;T</td>		
-			<td><a href="http://www.grenoble-inp.fr/" target="_blank" >INP Grenoble</a></td>
-			<td>Ecole d'Ingé</td>
-		</tr>
-	</table>
-    			</p>
+				<h2><strong>Journée d'accueil des étudiants</strong></h2>
+				<p><a href="https://www.facebook.com/media/set/?set=a.667756676576032.1073741829.140309012654137&amp;type=3" target="_blank"><img src="../../cover/jae2013.jpg" alt="journee d'accueil des etudiants" class="act-image"/></a>
+			<br><br>
+		On Thursday, October 24, 2013, the Federation of Associations and Corporations Teen 06 organized for the fifth time, Student Welcome Day ( JAE ), 
+		in partnership with the City of Nice, Nice CROUS -Toulon, PACA Region and the University of Nice - Sophia Antipolis.
+		For the whole day, all new entrants to the university whether in BTS or in private school, students stood for the colours of their 
+		campus on the day completely unmarked.<br><br>
+		The day was divided into three parts:<br><br>
+
+		<strong><em>The morning - The Rally</em></strong><br>
+		It is from 9:00am, at the Campus St. Jean d'Angely, that the students gathered to prepare and train their teams. Blue, red, yellow and green, the campus wearing their colors to <em>face</em> throughout the day.
+		Breakfast was also served, and was hosted by the CROUS Nice- Toulon.
+		After animations and speech, the starting signal for the race, "clapping", was given at 10am. Students then left on an adventure in 
+		Nice, following a rhythmic puzzle to finally get to the castle.<br><br>
+
+		<strong><em>The afternoon - Inter-Campus Challenge</em></strong><br>
+		Students assembled at 14h at the Palais des Expositions to represent their campus. Campus against campus, everyone fought in 
+		inflatable structures for their teams. On site, a village composed of different partners of the day was there. At the end of the afternoon only a campus emerged victorious.<br><br>
+
+		<strong><em>The night - Responsible Evening</em></strong><br>
+		At night, the Exhibition transformed into the biggest nightclub in Nice. 
+		All students of the University and Grandes Ecoles were invited, 5,000 students were expected for the biggest night of the year. 
+		Alcohol consumption was limited to three per person.<br>
+		</br>
+		<a href="http://vimeo.com/76763698"  target="_blank">Click here to view the video</a>.</p>
 			</div>
 			
 		</div>
