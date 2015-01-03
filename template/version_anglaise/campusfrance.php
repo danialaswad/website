@@ -23,7 +23,7 @@
 				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li class='current_page_item'><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='vietudiant.php' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
+				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
@@ -35,7 +35,7 @@
 	</div>
 	<div id="traduit">
 			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/campusfrance.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="#"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">

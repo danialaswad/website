@@ -19,12 +19,12 @@
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
-				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
-				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li class='current_page_item'><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='index.php' accesskey='1' title=''>HOME</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='vietudiant.php' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
+				<li class='current_page_item'><a href='vietudiant.php' accesskey='5' title=''>STUDENT LIFE</a></li>
+				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
@@ -35,68 +35,56 @@
 	</div>
 	<div id="traduit">
 			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/parcours.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="en/activite.php"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Parcours</h2>		
+			<h2>Vie &eacute;tudiante</h2>		
 		</div>
 	</div>
 </div>
 <div id="wrapper3">
+	
 	<div id="wrapper-blog" class="container">
+		<div id="sub-topic">
+		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
+		<a href="#" class="topic"><h2>ACTIVIT&Eacute;S</h2></a>
+		<ul class='menu_secondaire'>
+					<li><a href=''></a></li>
+					<li><a href=''></a></li>
+				</ul>
+		<a href="etudesup.php" class="topic"><h2>POURSUITES D'&Eacute;TUDES</h2></a>
+	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>1. SPM</strong></h2>
-				<p>Il est obligatoire de bien reussir le SPM (Sijil Pelajaran Malaysia) qui est 
-					le plus grand examen &agrave; la fin de la derni&egrave;re ann&eacute;e scolaire 
-					pour &ecirc;tre &eacute;ligible au programme Pre-France. Il est l'&eacute;quivalent 
-					du BAC fran&ccedil;ais.
+				<h2><strong>Integration Activities</strong></h2>
+				<p>Avec les responsables de l'IUT, nous faisons de temps en temps des activités récréatives afin de faciliter notre integration en France, de découvrir la France et sa culture unique et aussi de renforcer, en général, la solidarité franco-malaisienne entre nous, les Malaisiens vivant en France et les personnels de l'IUT.
+    			</p>
+			</div>
+
+			<div class="post"><span class="date"></span>
+				<h2><strong>MARINELAND</strong></h2>
+				<p><img class="marine-banner" src="../cover/Marineland-Antibes.png" alt="marineland"><br><br>
+		Organisée et dirigée par six personnels de l'IUT de Nice Sophia Antipolis, cette excursion fait partie du programme Immersion malaisienne, une initiative visant particulièrement les nouveaux arrivants qui a pour but de faire connaissance avec les professeurs et les personnels de l'IUT avec qui nous travaillerons regulièrement bientôt. 
+Vous pouvez accéder au site d'Espace Marineland en cliquant ici, ou regarder les photos de notre excursion en cliquant <a href="Marineland-Viewer/Index.html" target="_blank">ici</a>.
+
 				</p>
 			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong>2. Pre-France</strong></h2>
-				<p>Le Pre-France est un programme ayant pour but de donner aux &eacute;tudiants malaisiens 
-					l'opportunit&eacute; de poursuivre leurs &eacute;tudes en France.Ce programme est compos&eacute; 
-					de 4 semestres. On parle ici de  2 ans d’apprentissage de la langue fran&ccedil;aise et une 
-					premi&egrave;re formation en sciences de l’ing&eacute;nieur. Les jeunes &eacute;tudiants recrut&eacute;s 
-					à la fin de leurs études secondaires sont s&eacute;lectionn&eacute;s et form&eacute;s sp&eacute;cialement 
-					durant 2 ans &agrave; l’Universit&eacute; de Kuala Lumpur o&ugrave; ils re&ccedil;oivent un enseignement 
-					intense en fran&ccedil;ais langue &eacute;trang&egrave;re (FLE) et aux sciences de l’ing&eacute;nieur.
-					Les mati&egrave;res &eacute;tudi&eacute;es sont :
-					<br><br><img src="../cover/matieres.jpg" alt="matieres">
-					<br><br>D&egrave;s le deuxi&egrave;me semestre, les &eacute;tudiants doivent choisir leur sp&eacute;cialit&eacute; 
-					qui va d&eacute;cider l'IUT auquel ils s'inscriront.</p>
+				<h2><strong>SORTIE &Agrave; CHEVAL</strong></h2>
+				<p><img class="cheval-banner" src="../cover/sortiecheval.jpg" alt="marineland"><br><br>
+		Organis&eacute;e et dirig&eacute;e par six personnels de l'IUT de Nice Sophia Antipolis, cette excursion fait aussi partie du programme Immersion malaisienne.<br>  
+		Vous pouvez regarder les photos de notre sortie en cliquant <a href="SortieCheval-Viewer/Index.html" target="_blank" >ici</a>.
+
+				</p>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>3. Bridging Programme <br>(cours FLE intensif)</strong></h2>
-				<p>4 mois de programme d’int&eacute;gration dit « Bridging Programme ». De mi-avril à fin ao&ucirc;t, les étudiants sont 
-					r&eacute;partis en France dans les 4 villes des IUT concern&eacute;s 
-					pour une p&eacute;riode d’int&eacute;gration durant laquelle ils sont h&eacute;berg&eacute;s en familles d’accueil, 
-					puis en r&eacute;sidence Universitaire. Ils re&ccedil;oivent un enseignement intensif
-					en immersion en FLE, ainsi que des cours de remise &agrave; niveau de sciences et technologie.<br><br>
-					Les cours de langue française se déroulent à l'Alliance Française et sont répartis de la façon suivante :<br>
-    				- Mai: 4 heures de cours le matin (de 8h00 à midi).<br>
-    				- Juin : 3 heures de cours le matin (de 8h00 à 11h00). Et en après-midi, cours à l'IUT à partir de midi.<br>
-   					- Juillet : Mêmes créneaux que ceux du mois de juin pour les deux premières semaines. Pour les deux dernières semaines, cours à l'Alliance Française de 13h00 à 17h00.<br>
-    				- Août : Cours à l'Alliance Française (de 13h00 à 17h00).<br><br>
-    				Pendant les deux premiers mois &agrave; l'Alliance Fran&ccedil;aise, ils sont mélangés avec d'autres étudiants 
-    				étrangers, et classés en groupes selon le niveau de la langue française (B1/B2). 
-    				Alors que pendant les deux derniers mois, ils sont classés en deux groupes de malaisiens pour une préparation 
-    				pour le TCF (Test de connaissance du Français) qui a lieu 
- 					en fin août.<br><br>
-    				La dernière semaine à l'IUT, les étudiants malaisiens passent une petite interrogation sur les matières étudiées 
-    				(maths, physique, réseaux et informatique).<br><br>
-    				<strong>Quelques photos de l'Alliance Française :</strong><br>
-						<ul>
-							<li><img src="../cover/alliancef1.PNG" alt="AF" class="imgL"/></li>
-    						<li><img src="../cover/alliancef2.PNG" alt="AF" class="imgR"/></li>
-    						<li><img src="../cover/alliancef3.PNG" alt="AF" class="imgL"/></li>
-    						<li><img src="../cover/alliancef4.PNG" alt="AF" class="imgR"/></li>
-    					</ul>
-    				<br>
+				<h2><strong>PIQUE-NIQUE &Agrave; CARRAS</strong></h2>
+				<p><img class="cheval-banner" src="../cover/carras.jpg" alt="marineland"><br><br>
+		Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.<br> 
+		Vous pouvez regarder les photos de notre sortie en cliquant <a href="Piquenique-Viewer/Index.html" target="_blank" >ici</a>.
     			</p>
 			</div>
 			
@@ -149,7 +137,7 @@ $(window).scroll(function(){
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
-			<h2>Liens Externes</h2>
+			<h2>External links</h2>
 				<ul class="style2">
 					<li><strong>IUT Nice Côte d’azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>

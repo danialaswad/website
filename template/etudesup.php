@@ -10,8 +10,8 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <!--CSS files-->
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-<link href="../style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="../fonts.css" rel="stylesheet" type="text/css" media="all" />
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 
 </head>
 <body>
@@ -34,14 +34,14 @@
 			<span></span> </div>
 	</div>
 	<div id="traduit">
-			<a href="../activite.php"><img src="../../cover/french.jpg" alt="francais"></a>
-			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
+			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
+			<a href="en/etudesup.php"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Student Life</h2>		
+			<h2>Vie &eacute;tudiante</h2>		
 		</div>
 	</div>
 </div>
@@ -50,40 +50,121 @@
 	<div id="wrapper-blog" class="container">
 		<div id="sub-topic">
 		<a href="vietudiant.php" class="topic"><h2>IUT</h2></a>
-		<a href="#" class="topic"><h2>ACTIVITIES</h2></a>
+		<a href="activite.php" class="topic"><h2>ACTIVIT&Eacute;S</h2></a>
 		<ul class='menu_secondaire'>
 					<li><a href=''></a></li>
 					<li><a href=''></a></li>
 				</ul>
-		<a href="etudesup.php" class="topic"><h2>FURTHER STUDIES</h2></a>
+		<a href="#" class="topic"><h2>POURSUITES D'&Eacute;TUDES</h2></a>
 	</div>
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>Integration Activities</strong></h2>
-				<p>With the IUT professor, we occasionally did recreational activities to facilitate our integration in France, to discover France and its unique culture and also to improve the Franco-Malaysian solidarity between us, the Malaysians living in France and the staff of the IUT.
+				<h2><strong></strong></h2>
+				<p>Durant le semestre 4, les étudiants effectuent des dossiers de candidature pour une poursuite d'études. La constitution de ces dossiers sera gérée en partie par le directeur d’études, monsieur Frédéric Payan qui est aussi professeur de télécommunications. Le chef de département et professeur de mathématiques, madame Claire Oberli,
+				devra ajouter des relevés de notes, des avis de poursuite d’études... dans les dossiers avant de les envoyer.
     			</p>
 			</div>
 
-			<div class="post"><span class="date"></span>
-				<h2><strong>MARINELAND</strong></h2>
-				<p><img class="marine-banner" src="../../cover/Marineland-Antibes.png" alt="marineland"><br><br>
-		Organised and led by six employees of the IUT of Nice Sophia Antipolis, this tour is part of the Malaysian Immersion program, an initiative aimed particularly for the newcomers to get to know the teachers and the staff aims to IUT with whom we work regularly soon.
-		<br>
-		You can access the Marineland website by clicking <a href="https://www.marineland.fr/" target="_blank">here</a>, or have view at the <a href="../Marineland-Viewer/Index.html" target="_blank">pictures</a> of our trip .
-				</p>
-			</div>
-			<div class="post"> <span class="date"></span>
-				<h2><strong>Horse Riding</strong></h2>
-				<p><img class="cheval-banner" src="../../cover/sortiecheval.jpg" alt="marineland"><br><br>
-		Organised and led by six employees of the IUT of Nice Sophia Antipolis, this tour is also part of Malaysian Immersion program. 
-		<br>You can view pictures of our output <a href="../SortieCheval-Viewer/Index.html" target="_blank">here</a>.
-				</p>
-			</div>
 			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>PICNIC AT CARRAS</strong></h2>
-				<p><img class="cheval-banner" src="../../cover/carras.jpg" alt="marineland"><br><br>
-		On June 20, a small picnic was held by both iut R&amp;T and GEII at Carras beach to welcome the new students PF11.<br>
-		You can view pictures of our output <a href="../Piquenique-Viewer/Index.html" target="_blank">here</a>.
+				<h2><strong>Etablissements de poursuites d'etudes</strong></h2>
+				<p>Ce sont des étudiants malaisiens qui, après avoir eu leurs diplômes, ont intégré ces établissements.
+				<table>
+	<tr>
+		<td colspan="2">Provenance des étudiants</td>
+		<td>Etablissements de PE</td>		
+		<td>Diplômes</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://unice.fr/sciences" target="_blank" >UFR Nice</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://rt.unice.fr/RT/" target="_blank" >IUT de Nice Sophia Antipolis</a></td>
+			<td>LP</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.polytechnice.fr/" target="_blank" >Polytech Nice</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="https://www.polytech.upmc.fr/" target="_blank" >Polytech Paris</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.polytech-montpellier.fr/" target="_blank" >Polytech Mtpl</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.polytech-lille.fr/ecole-d-ingenieurs.html#.U6Limttb9B0" target="_blank" >Polytech Lille</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://esirem.u-bourgogne.fr/" target="_blank" >ESIREM</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.enseeiht.fr/en/index.html" target="_blank" >ENSEEIHT</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.utbm.fr/" target="_blank" >UTBM</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.univ-lyon1.fr/" target="_blank" >UFR LYON 1</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td></td>		
+			<td><a href="http://www.insa-lyon.fr/en" target="_blank" >INSA Lyon</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.univ-fcomte.fr/" target="_blank" >UFC Besançon</a></td>
+			<td>L3/M1/M2</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.ensil.unilim.fr/W3/index.php" target="_blank" >ENSI Limoges</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://isitv.univ-tln.fr/" target="_blank" >ISITV</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+		<tr>
+			<td>Nice GEII</td>
+			<td>Nice R&amp;T</td>		
+			<td><a href="http://www.grenoble-inp.fr/" target="_blank" >INP Grenoble</a></td>
+			<td>Ecole d'Ingé</td>
+		</tr>
+	</table>
     			</p>
 			</div>
 			
@@ -136,7 +217,7 @@ $(window).scroll(function(){
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
-			<h2>External links</h2>
+			<h2>Liens externes</h2>
 				<ul class="style2">
 					<li><strong>IUT Nice Côte d’azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>

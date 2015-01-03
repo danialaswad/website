@@ -92,12 +92,12 @@
 		<div id="post">
 			<h1></h1><br>
 			<div class="post"> <span class="date"></span> 
-				<h2><strong><a href="#">FORMATION</a></strong></h2>
+				<h2><strong><a href="#">PROGRAMMES</a></strong></h2>
 				<p></p>
 
 			</div>
 			<div class="post"> <span class="date"></span>
-				<h2><strong><a href="#">PARCOURS</a></strong></h2>
+				<h2><strong><a href="#">ADMISSION</a></strong></h2>
 				<p></p>
 			</div>
 			<div class="post"> <span class="date"></span> 
@@ -105,7 +105,7 @@
 				<p></p>
 			</div>
 			<div class="post"> <span class="date"></span> 
-				<h2><strong><a href="#">VIE ÉTUDIANT</a></strong></h2>
+				<h2><strong><a href="#">STUDENT LIFE</a></strong></h2>
 				<p></p>
 			</div>
 			<div class="post"> <span class="date"></span> 

@@ -21,10 +21,10 @@
 			<ul>
 				<li><a href='index.php' accesskey='1' title=''>ACCUEIL</a></li>
 				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
-				<li class='current_page_item'><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='vietudiant.php' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
+				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
+				<li class='current_page_item'><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
@@ -35,13 +35,13 @@
 	</div>
 	<div id="traduit">
 			<a href="#"><img src="../cover/french.jpg" alt="francais"></a>
-			<a href="en/parcours.php"><img src="../cover/anglais.png" alt="anglais"></a>
+			<a href="#"><img src="../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>
 <div id="wrapper1">
 	<div id="welcome" class="container">
 		<div class="title">
-			<h2>Parcours</h2>		
+			<h2>GEII et R&amp;T</h2>		
 		</div>
 	</div>
 </div>
@@ -49,55 +49,38 @@
 	<div id="wrapper-blog" class="container">
 		<div id="post">
 			<div class="post"> <span class="date"></span>
-				<h2><strong>1. SPM</strong></h2>
-				<p>Il est obligatoire de bien reussir le SPM (Sijil Pelajaran Malaysia) qui est 
-					le plus grand examen &agrave; la fin de la derni&egrave;re ann&eacute;e scolaire 
-					pour &ecirc;tre &eacute;ligible au programme Pre-France. Il est l'&eacute;quivalent 
-					du BAC fran&ccedil;ais.
-				</p>
-			</div>
-			<div class="post"> <span class="date"></span>
-				<h2><strong>2. Pre-France</strong></h2>
-				<p>Le Pre-France est un programme ayant pour but de donner aux &eacute;tudiants malaisiens 
-					l'opportunit&eacute; de poursuivre leurs &eacute;tudes en France.Ce programme est compos&eacute; 
-					de 4 semestres. On parle ici de  2 ans d’apprentissage de la langue fran&ccedil;aise et une 
-					premi&egrave;re formation en sciences de l’ing&eacute;nieur. Les jeunes &eacute;tudiants recrut&eacute;s 
-					à la fin de leurs études secondaires sont s&eacute;lectionn&eacute;s et form&eacute;s sp&eacute;cialement 
-					durant 2 ans &agrave; l’Universit&eacute; de Kuala Lumpur o&ugrave; ils re&ccedil;oivent un enseignement 
-					intense en fran&ccedil;ais langue &eacute;trang&egrave;re (FLE) et aux sciences de l’ing&eacute;nieur.
-					Les mati&egrave;res &eacute;tudi&eacute;es sont :
-					<br><br><img src="../cover/matieres.jpg" alt="matieres">
-					<br><br>D&egrave;s le deuxi&egrave;me semestre, les &eacute;tudiants doivent choisir leur sp&eacute;cialit&eacute; 
-					qui va d&eacute;cider l'IUT auquel ils s'inscriront.</p>
-			</div>
-			<div class="post no-border"> <span class="date"></span>
-				<h2><strong>3. Bridging Programme <br>(cours FLE intensif)</strong></h2>
-				<p>4 mois de programme d’int&eacute;gration dit « Bridging Programme ». De mi-avril à fin ao&ucirc;t, les étudiants sont 
-					r&eacute;partis en France dans les 4 villes des IUT concern&eacute;s 
-					pour une p&eacute;riode d’int&eacute;gration durant laquelle ils sont h&eacute;berg&eacute;s en familles d’accueil, 
-					puis en r&eacute;sidence Universitaire. Ils re&ccedil;oivent un enseignement intensif
-					en immersion en FLE, ainsi que des cours de remise &agrave; niveau de sciences et technologie.<br><br>
-					Les cours de langue française se déroulent à l'Alliance Française et sont répartis de la façon suivante :<br>
-    				- Mai: 4 heures de cours le matin (de 8h00 à midi).<br>
-    				- Juin : 3 heures de cours le matin (de 8h00 à 11h00). Et en après-midi, cours à l'IUT à partir de midi.<br>
-   					- Juillet : Mêmes créneaux que ceux du mois de juin pour les deux premières semaines. Pour les deux dernières semaines, cours à l'Alliance Française de 13h00 à 17h00.<br>
-    				- Août : Cours à l'Alliance Française (de 13h00 à 17h00).<br><br>
-    				Pendant les deux premiers mois &agrave; l'Alliance Fran&ccedil;aise, ils sont mélangés avec d'autres étudiants 
-    				étrangers, et classés en groupes selon le niveau de la langue française (B1/B2). 
-    				Alors que pendant les deux derniers mois, ils sont classés en deux groupes de malaisiens pour une préparation 
-    				pour le TCF (Test de connaissance du Français) qui a lieu 
- 					en fin août.<br><br>
-    				La dernière semaine à l'IUT, les étudiants malaisiens passent une petite interrogation sur les matières étudiées 
-    				(maths, physique, réseaux et informatique).<br><br>
-    				<strong>Quelques photos de l'Alliance Française :</strong><br>
-						<ul>
-							<li><img src="../cover/alliancef1.PNG" alt="AF" class="imgL"/></li>
-    						<li><img src="../cover/alliancef2.PNG" alt="AF" class="imgR"/></li>
-    						<li><img src="../cover/alliancef3.PNG" alt="AF" class="imgL"/></li>
-    						<li><img src="../cover/alliancef4.PNG" alt="AF" class="imgR"/></li>
-    					</ul>
-    				<br>
-    			</p>
+				<h2><strong>Photo de groupe PF10 R&amp;T et GEII</strong></h2>
+				<img src="./images/groupPF10.jpg" alt="groupPF10" /><br>
+				Durant le premier semestre de formation à l'université de Kuala Lumpur, les étudiants suivent la filière ingénierie. 
+	Mais à partir du deuxième semestre du 
+	programme Pre-France, ils doivent choisir leur spécialité qui va décider de l'IUT auquel ils s'inscriront.
+	Pour accéder à cette formation, il faut obtenir de bons resultats au SPM.<br><br>
+	&diams;&nbsp;&nbsp;Le département RT (Réseaux et Télécommunications) forme de futurs diplômés dans tous les métiers des nouvelles technologies de communication. <br>
+	&nbsp;&nbsp;&nbsp;Il fait partie du campus universitaire SophiaTech, au coeur de Sophia Antipolis, la plus grande technopole d’Europe.<br><br>
+	&nbsp;&nbsp;&nbsp;Les principales matières enseignées en R&amp;T sont :<br>
+	&nbsp;&nbsp;&nbsp;- Réseaux et Internet<br>
+	&nbsp;&nbsp;&nbsp;- Langues et communication<br>
+	&nbsp;&nbsp;&nbsp;- Télécommunication fixes et mobiles<br>
+	&nbsp;&nbsp;&nbsp;- Informatique<br>
+	&nbsp;&nbsp;&nbsp;- Mathématiques<br>
+	&nbsp;&nbsp;&nbsp;- Electronique et physique <br>
+	&nbsp;&nbsp;&nbsp;- Connaissance de l'entreprise<br><br>
+	&diams;&nbsp;&nbsp;Le département GEII (Génie Electrique et Informatique industrielle) lui, forme ses futurs diplômés dans des secteurs qui relèvent de l'électricité,
+	&nbsp;&nbsp;de l'électronique de l'informatique industrielle et de leurs applications. Les compétences du diplômé GEII s'exercent également dans des secteurs aussi divers 
+	&nbsp;&nbsp;&nbsp;que  les industries de transformation et manufacturières, la gestion de l’énergie, les transports et l’automobile, la santé, 
+	l’agroalimentaire et tant d'autres.<br><br>
+	&nbsp;&nbsp;&nbsp;Les principales matières enseignées en GEII sont :<br>
+	&nbsp;&nbsp;&nbsp;- Mathématiques, physique, culture<br>
+	&nbsp;&nbsp;&nbsp;- Expression et communication<br>
+	&nbsp;&nbsp;&nbsp;- Anglais<br>
+	&nbsp;&nbsp;&nbsp;- Energie électrique<br>
+	&nbsp;&nbsp;&nbsp;- Electrotechnique et électronique de puissance<br>
+	&nbsp;&nbsp;&nbsp;- Informatique industrielle, électronique numérique, synthèse logique<br><br>
+	On constate alors que la différence entre les deux filières est la spécialité de chacune d'entre elles. Les matières étudiées sont presque les mêmes ce qui
+	en résulte qu'en poursuite d'études, les étudiants peuvent opter pour la même licence professionnelle ou le même master, mais tout dépendra de la matière 
+	vers laquelle penche l'étudiant ou par laquelle il est passionné.<br><br>
+	<strong>* Quelques exemples d'écoles d'ingénieurs pour une poursuite d'études longues :</strong><br>
+	SUPELEC, ENSI, INSA, Arts et Métiers, Réseau Polytech.
 			</div>
 			
 		</div>
@@ -135,7 +118,7 @@ $('#theFixed').click(function(){
     $(window).scrollTop(0);
 });
 $(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
+    if ($(window).scrollTop()>550 && $(window).scrollTop()<1700) {
         isVisible = true;
         $('#theFixed').show();
     }

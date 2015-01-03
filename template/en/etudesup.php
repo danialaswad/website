@@ -34,7 +34,7 @@
 			<span></span> </div>
 	</div>
 	<div id="traduit">
-			<a href="../vietudiant.php"><img src="../../cover/french.jpg" alt="francais"></a>
+			<a href="../etudesup.php"><img src="../../cover/french.jpg" alt="francais"></a>
 			<a href="#"><img src="../../cover/anglais.png" alt="anglais"></a>
 	</div>
 </div>

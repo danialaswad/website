@@ -23,7 +23,7 @@
 				<li><a href='formation.php' accesskey='2' title=''>FORMATIONS</a></li>
 				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li><a href='#' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
+				<li><a href='vietudiant.php' accesskey='5' title=''>VIE &Eacute;TUDIANTE</a></li>
 				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
@@ -79,7 +79,7 @@
 			</script>
 			<br>			
 			<span class="byline"> Le site R&amp;T Malaisie a pour but de donner une idée à quoi va les étudiants rencontrer pendant son sejour en France. Il
-			cert aussi à creer une rélation professionelle entre les anciens étudiants malaisiens R&T et ceux de nouveaux.			
+			sert aussi à creer une rélation professionelle entre les anciens étudiants malaisiens R&T et ceux de nouveaux.			
 			</span> 
 		</div>
 		<div class="content">
