@@ -940,6 +940,10 @@
 		color: #fff;
 		background-color: #000;
  	} 
+ 	.topic h2:hover
+ 	{
+ 		background-color:#6699FF; 
+ 	}
 
 /*********************************************************************************/
 /* Topic  menu                                                                     */
