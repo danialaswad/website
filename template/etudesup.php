@@ -19,12 +19,12 @@
 	<div id="header" class="container">
 		<div id="menu">
 			<ul>
-				<li><a href='index.php' accesskey='1' title=''>HOME</a></li>
-				<li><a href='formation.php' accesskey='2' title=''>PROGRAMMES</a></li>
-				<li><a href='parcours.php' accesskey='3' title=''>ADMISSION</a></li>
+				<li><a href='index.php' accesskey='1' title=''>ACCEUIL</a></li>
+				<li><a href='formation.php' accesskey='2' title=''>FORMATION</a></li>
+				<li><a href='parcours.php' accesskey='3' title=''>PARCOURS</a></li>
 				<li><a href='campusfrance.php' accesskey='4' title=''>CAMPUS FRANCE</a></li>
-				<li class='current_page_item'><a href='vietudiant.php' accesskey='5' title=''>STUDENT LIFE</a></li>
-				<li><a href='geiirt.php' accesskey='7' title=''>GEII AND R&amp;T</a></li>
+				<li class='current_page_item'><a href='vietudiant.php' accesskey='5' title=''>VIE &Eacute;TUDIANNTE</a></li>
+				<li><a href='geiirt.php' accesskey='7' title=''>GEII ET R&amp;T</a></li>
 				<li><a href='album.php' accesskey='8' title=''>ALBUM</a></li>
 				<li><a href='#' accesskey='9' title=''>FORUM</a></li>
 			</ul>
