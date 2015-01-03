@@ -146,23 +146,6 @@
 	</div>
 </div>
 
-<script>
-///side menu script
-$('#theFixed').click(function(){
-    $(window).scrollTop(0);
-});
-$(window).scroll(function(){
-    if ($(window).scrollTop()>880 && $(window).scrollTop()<1780) {
-        isVisible = true;
-        $('#theFixed').show();
-    }
-    else{
-    	$('#theFixed').hide();
-    }
-
-});
-
-</script>
 <div id="wrapper2">
 	<div id="links"class="container">
 			<h2>Liens Externes</h2>

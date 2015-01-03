@@ -130,22 +130,6 @@ To benefit from the national student health-care system, students must be under 
 	</div>
 </div>
 
-<script>
-///side menu script
-$('#theFixed').click(function(){
-    $(window).scrollTop(0);
-});
-$(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<2600) {
-        isVisible = true;
-        $('#theFixed').show();
-    }
-    else{
-    	$('#theFixed').hide();
-    }
-
-});
-</script>
 
 <div id="wrapper2">
 	<div id="links">

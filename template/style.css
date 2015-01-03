@@ -833,9 +833,9 @@
 	
 	#list
 	{
-		margin-right:50px;
+		margin-right:100px;
 		float: right;
-		width: 275px;
+		width: 150px;
 		height:500px
 	}
 	
@@ -863,13 +863,10 @@
 
 	#theFixed
 	{
-		position: fixed;
+		margin-right: 1em;
+		width: 150px;
    		top:30px;
-   		right:120px;
-   		z-index:2;
-   		display: none;   
-   		color:red;
-   		cursor: pointer;    
+   		right:120px;   
 	}
 	#theFixed ul
 	{

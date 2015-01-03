@@ -117,23 +117,6 @@ Vous pouvez accéder au site d'Espace Marineland en cliquant ici, ou regarder le
 	</div>
 </div>
 
-<script>
-///side menu script
-$('#theFixed').click(function(){
-    $(window).scrollTop(0);
-});
-$(window).scroll(function(){
-    if ($(window).scrollTop()>550 && $(window).scrollTop()<2580) {
-        isVisible = true;
-        $('#theFixed').show();
-    }
-    else{
-    	$('#theFixed').hide();
-    }
-
-});
-</script>
-
 <div id="wrapper2">
 	<div id="links">
 		<div id="link-box">
