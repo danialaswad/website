@@ -71,13 +71,13 @@
 						<div class="post"> <span class="date"></span>
 				<h2><strong>&Icirc;le Sainte-Marguerite</strong></h2>
 				<p>On November 22 2014, the students of PF11 visited the &Icirc;le Sainte-Marguerite.<br/> 
-	<a href="ActiviteDecouverte-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+	<a href="../ActiviteDecouverte-Viewer/Index.html" target="_blank">Click here to view the photos</a>
 				</p>
 			</div>
 			<div class="post no-border"> <span class="date"></span>
 				<h2><strong>Christmas Dinner</strong></h2>
 				<p>On December 13 2014, we had a Christmas dinner at Jean Medecin with all the Malaysian students (PF10 and PF11) and the lecturers of both IUT.<br/> 
-	<a href="RepasNoel-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+	<a href="../RepasNoel-Viewer/Index.html" target="_blank">Click here to view the photos</a>
 				</p>
 			</div>
 			
