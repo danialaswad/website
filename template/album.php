@@ -61,12 +61,25 @@
 				<a href="SortieCheval-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
 				</p>
 			</div>
-			<div class="post no-border"> <span class="date"></span>
+			<div class="post"> <span class="date"></span>
 				<h2><strong>Pique-nique &agrave; carras</strong></h2>
 				<p>Le 20 juin 2014, nous avons fait un pique-nique &aacute; Carras afin d'accueillir les nouveaux arrivants les PF11.
 				<br>
 				<a href="Piquenique-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
     			</p>
+			</div>
+			<div class="post"> <span class="date"></span>
+				<h2><strong>D&eacute;couverte &agrave; l'&Icirc;le Sainte-Marguerite</strong></h2>
+				<p>Le 22 novembre 2014, les &eacute;tudiants de PF11 ont fait une excursion &agrave; l'&Icirc;le Sainte-Marguerite.<br/> 
+	<a href="ActiviteDecouverte-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				</p>
+			</div>
+			<div class="post no-border"> <span class="date"></span>
+				<h2><strong>Repas de No&Euml;l</strong></h2>
+				<p>Le 13 d&eacute;cembre 2014, nous avons fait un repas de No&euml;l &agrave; la R&eacute;sidence &eacute;tudiante 
+				Jean Medecin avec tous les &eacute;tudiants malaisiens de PF10 et PF11 ainsi que les professeurs.<br/> 
+	<a href="RepasNoel-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				</p>
 			</div>
 			
 		</div>
@@ -103,7 +116,7 @@
 		<div id="link-box">
 			<h2>Liens Externes</h2>
 				<ul class="style2">
-					<li><strong>IUT Nice Côte d’azur</strong><br/>
+					<li><strong>IUT Nice C&ocirc;te d'azur</strong><br/>
 						D&eacute;partement R&eacute;seaux et T&eacute;l&eacute;communications<br/>
 						650, Route des Colles, 06560 Valbonne<br/>
 						Adresse &eacute;lectronique : rt@iutsoph.unice.fr<br/>

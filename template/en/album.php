@@ -61,12 +61,24 @@
 				<a href="../SortieCheval-Viewer/Index.html" target="_blank">Click here to view the photos</a>
 				</p>
 			</div>
-			<div class="post no-border"> <span class="date"></span>
+			<div class="post"> <span class="date"></span>
 				<h2><strong>Picnic at Carras</strong></h2>
 				<p>On June 20, a small picnic was held by both iut R&amp;T and GEII at Carras beach to welcome the new students PF11. 
 				<br>
 				<a href="../Piquenique-Viewer/Index.html" target="_blank">Click here to view the photos</a>
     			</p>
+			</div>
+						<div class="post"> <span class="date"></span>
+				<h2><strong>&Icirc;le Sainte-Marguerite</strong></h2>
+				<p>On November 22 2014, the students of PF11 visited the &Icirc;le Sainte-Marguerite.<br/> 
+	<a href="ActiviteDecouverte-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				</p>
+			</div>
+			<div class="post no-border"> <span class="date"></span>
+				<h2><strong>Christmas Dinner</strong></h2>
+				<p>On December 13 2014, we had a Christmas dinner at Jean Medecin with all the Malaysian students (PF10 and PF11) and the lecturers of both IUT.<br/> 
+	<a href="RepasNoel-Viewer/Index.html" target="_blank">Cliquez ici pour voir les photos</a>
+				</p>
 			</div>
 			
 		</div>
@@ -97,7 +109,6 @@
 		</div>
 	</div>
 </div>
-
 
 <div id="wrapper2">
 	<div id="links">
